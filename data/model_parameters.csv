@@ -1,0 +1,38 @@
+group,parameter,value
+batters,high-pressure threshold (percentile of all deliveries),85.0
+batters,high-pressure score cut-off,58.83
+batters,shrinkage k (sr),51.9
+batters,shrinkage k (bnd),95.1
+batters,shrinkage k (dot),43.2
+batters,shrinkage k (out),362.1
+batters,shrinkage k (cons),39.8
+batters,eligibility: min high-pressure balls,50.0
+batters,eligibility: min matches,5.0
+batters,eligible players,132.0
+batters,baseline match success rate,0.301
+batters,baseline runs per ball (IPL),1.4692
+batters,baseline bnd per ball (IPL),0.1915
+batters,baseline dot per ball (IPL),0.3536
+batters,baseline out per ball (IPL),0.0762
+batters,baseline runs per ball (T20I),1.3118
+batters,baseline bnd per ball (T20I),0.1605
+batters,baseline dot per ball (T20I),0.389
+batters,baseline out per ball (T20I),0.0856
+bowlers,high-pressure threshold (percentile of all deliveries),85.0
+bowlers,high-pressure score cut-off,64.0
+bowlers,shrinkage k (wk),600.0
+bowlers,shrinkage k (bnd),133.5
+bowlers,shrinkage k (dot),273.6
+bowlers,shrinkage k (cons),40.0
+bowlers,eligibility: min high-pressure balls,50.0
+bowlers,eligibility: min matches,5.0
+bowlers,eligible players,167.0
+bowlers,baseline match success rate,0.51
+bowlers,baseline wk per ball (IPL),0.0621
+bowlers,baseline bnd per ball (IPL),0.2504
+bowlers,baseline dot per ball (IPL),0.2877
+bowlers,baseline runs per ball (IPL),1.8136
+bowlers,baseline wk per ball (T20I),0.0664
+bowlers,baseline bnd per ball (T20I),0.2293
+bowlers,baseline dot per ball (T20I),0.301
+bowlers,baseline runs per ball (T20I),1.7547

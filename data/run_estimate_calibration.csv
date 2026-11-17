@@ -1,0 +1,7 @@
+check,value
+n margin matches,376.0
+mean error (runs),-0.0010638297872345868
+SD error,2.891080339927429
+MAE,2.171808510638298
+share within 3 runs,0.7287234042553191
+chases won where est2>=est1+1,0.6501305483028721

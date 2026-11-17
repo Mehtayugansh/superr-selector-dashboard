@@ -1,0 +1,9 @@
+issue,decision,effect
+Competition filter,"IPL (5 seasons) + T20I; exclude Emerging Teams Asia Cup 2024 & Asia Cup Rising Stars 2025 (A-team, format T20)",30 matches excluded; 16 abandoned matches have no ball data
+Legal ball,"legal = extras_type not in {wide, Overstep, other}",99.99% of non-final overs have exactly 6 legal balls
+Revised overs units,first/second_inn_revised_overs are BALLS (e.g. 66 = 11 overs),confirmed vs legal-ball counts
+Extras runs,byes/legbyes run values NOT recorded; extras1_runs is a category code; wide running runs not recorded,"Innings totals, RRR, economy cannot be exactly rebuilt; margin test residual SD ~2.9 runs"
+Bowler wicket,"Bowled, Caught, LBW, Stump, Hit Wicket only","RunOut, Retire Out, Obstructing excluded"
+Wicket discrepancies,"12 dismissed-id-without-flag rows not counted as wickets (no dismissal type); 1 Retire Out flagged wicket without id kept as team wicket, not batter/bowler dismissal",13 rows flagged in wicket_data_flag
+Super Overs,"innings 3/4 flagged is_super_over, max balls = 6; to be scored separately",25+13 rows
+Playing XI duplicates,40 duplicate rows in 3 matches (e.g. 13613); batting_order conflicting; not used for ball-level metrics,player_id taken from ball_by_ball

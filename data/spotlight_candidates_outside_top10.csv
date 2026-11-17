@@ -1,0 +1,9 @@
+group,category,player_id,player_name,rank,metric,metric_value,reliability_score,note
+batters,Best reliability outside Top 10,37052,Naman Dhir,11,reliability_score,11.0,92.5935,Ranked #11 overall; score 92.6 from 92 high-pressure balls.
+batters,Best match-to-match consistency,1318,Andre Russell,15,consistency_success_rate_adjusted,0.3892,88.7625,Delivered in 14 of 27 qualifying pressure matches (adjusted rate 39%).
+batters,Best pressure strike rate,3647,Shreyas Iyer,21,pressure_strike_rate,202.6667,85.3561,Strike rate 202.7 vs baseline 138.7 over 75 balls.
+batters,Best pressure batting average,2756,Shashank Singh,20,pressure_average,52.5,86.5343,52.5 runs per dismissal (4 dismissals).
+bowlers,Best reliability outside Top 10,5940,Riley Meredith,11,reliability_score,11.0,95.8499,Ranked #11 overall; score 95.8 from 67 high-pressure balls.
+bowlers,Best match-to-match consistency,5379,Mark Adair,19,consistency_success_rate_adjusted,0.6,88.8976,Delivered in 15 of 19 qualifying pressure matches.
+bowlers,Best bowling control (dot balls),830,Josh Hazlewood,27,control_dot_ball_pct,38.7978,82.5694,39% dot balls under pressure (baseline 29%).
+bowlers,Best pressure wicket-taking,4807,Joshua Little,30,wickets_per_over_pressure,0.7407,80.5744,"10 wickets, 0.74 per over (baseline 0.40)."

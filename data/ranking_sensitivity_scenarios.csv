@@ -1,0 +1,29 @@
+group,scenario,eligible,top10_overlap_with_baseline,baseline_top10_still_in_top15,spearman_rank_corr
+batters,"baseline (q85, 50/5, k x1)",132,10,10,1.0
+batters,threshold 30 balls/5 matches,194,9,10,1.0
+batters,threshold 40/5,154,10,10,1.0
+batters,threshold 60/8,108,9,9,1.0
+batters,threshold 75/8,90,9,9,1.0
+batters,pressure band top 10%,84,5,6,0.923
+batters,pressure band top 20%,171,5,8,0.951
+batters,shrinkage k x0.5,132,9,10,0.999
+batters,shrinkage k x2,132,9,10,0.999
+batters,no pool normalisation,132,9,10,0.975
+batters,equal weights,132,9,10,0.996
+batters,no consistency component,132,7,9,0.986
+batters,consistency-heavy (0.35),132,9,10,0.991
+batters,pressure model v2 (old),159,4,6,0.851
+bowlers,"baseline (q85, 50/5, k x1)",167,10,10,1.0
+bowlers,threshold 30 balls/5 matches,206,9,10,0.999
+bowlers,threshold 40/5,185,9,10,1.0
+bowlers,threshold 60/8,135,10,10,1.0
+bowlers,threshold 75/8,119,9,10,0.999
+bowlers,pressure band top 10%,114,7,9,0.849
+bowlers,pressure band top 20%,192,6,7,0.895
+bowlers,shrinkage k x0.5,167,9,10,0.998
+bowlers,shrinkage k x2,167,9,10,0.999
+bowlers,no pool normalisation,167,9,10,0.987
+bowlers,equal weights,167,9,10,0.997
+bowlers,no consistency component,167,9,10,0.967
+bowlers,consistency-heavy (0.35),167,8,10,0.993
+bowlers,pressure model v2 (old),157,5,6,0.625

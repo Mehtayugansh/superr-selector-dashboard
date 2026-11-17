@@ -1,0 +1,1570 @@
+group,player_id,competition,season,team,pressure_balls,runs,boundaries,dots,dismissals,matches,wickets,runs_recorded
+batters,8,IPL,2022,Chennai Super Kings,57,73.0,9,23,0.0,9,,
+batters,8,IPL,2023,Chennai Super Kings,40,68.0,8,11,3.0,10,,
+batters,8,IPL,2024,Chennai Super Kings,24,45.0,7,8,2.0,6,,
+batters,8,IPL,2025,Chennai Super Kings,50,65.0,8,18,3.0,10,,
+batters,143,IPL,2022,Royal Challengers Bengaluru,43,81.0,11,13,3.0,6,,
+batters,143,IPL,2023,Royal Challengers Bengaluru,47,64.0,7,12,4.0,8,,
+batters,143,IPL,2024,Royal Challengers Bengaluru,56,96.0,14,20,3.0,10,,
+batters,143,T20I,2022,India,42,54.0,7,13,5.0,10,,
+batters,152,IPL,2022,Chennai Super Kings,26,31.0,4,12,4.0,6,,
+batters,152,IPL,2023,Chennai Super Kings,59,79.0,8,15,3.0,9,,
+batters,152,IPL,2024,Chennai Super Kings,41,69.0,9,9,2.0,7,,
+batters,152,IPL,2025,Chennai Super Kings,32,52.0,5,4,0.0,5,,
+batters,152,IPL,2026,Rajasthan Royals,63,78.0,8,19,1.0,9,,
+batters,152,T20I,2022,India,33,47.0,6,11,2.0,3,,
+batters,152,T20I,2023,India,4,9.0,2,1,1.0,2,,
+batters,305,IPL,2022,Rajasthan Royals,34,61.0,8,6,2.0,8,,
+batters,305,IPL,2023,Rajasthan Royals,14,25.0,4,2,1.0,4,,
+batters,305,IPL,2024,Rajasthan Royals,5,5.0,0,0,0.0,3,,
+batters,305,IPL,2025,Chennai Super Kings,4,4.0,0,0,0.0,1,,
+batters,305,T20I,2022,India,23,32.0,3,5,2.0,4,,
+batters,360,IPL,2022,Sunrisers Hyderabad,1,1.0,0,0,0.0,1,,
+batters,360,IPL,2023,Sunrisers Hyderabad,29,29.0,3,11,0.0,4,,
+batters,360,IPL,2024,Sunrisers Hyderabad,26,19.0,3,18,3.0,4,,
+batters,360,IPL,2025,Royal Challengers Bengaluru,18,6.0,0,12,1.0,5,,
+batters,360,IPL,2026,Royal Challengers Bengaluru,25,28.0,3,10,0.0,4,,
+batters,360,T20I,2022,India,12,6.0,0,6,3.0,6,,
+batters,360,T20I,2026,India,4,6.0,1,1,1.0,1,,
+batters,403,IPL,2022,Kolkata Knight Riders,37,53.0,8,17,4.0,7,,
+batters,403,IPL,2023,Kolkata Knight Riders,10,11.0,1,4,1.0,3,,
+batters,403,IPL,2024,Gujarat Titans,4,2.0,0,2,1.0,1,,
+batters,403,T20I,2022,India,13,17.0,2,3,0.0,1,,
+batters,479,IPL,2023,Sunrisers Hyderabad,9,15.0,3,5,1.0,2,,
+batters,479,T20I,2022,England,20,22.0,2,6,2.0,4,,
+batters,479,T20I,2023,England,5,2.0,0,3,1.0,3,,
+batters,479,T20I,2024,England,7,6.0,1,4,0.0,1,,
+batters,479,T20I,2025,England,41,42.0,5,18,2.0,5,,
+batters,479,T20I,2026,England,5,7.0,1,1,0.0,1,,
+batters,786,IPL,2022,Chennai Super Kings,4,6.0,0,1,0.0,2,,
+batters,786,IPL,2023,Mumbai Indians,11,6.0,0,6,1.0,2,,
+batters,786,T20I,2022,England,39,59.0,8,12,4.0,9,,
+batters,786,T20I,2023,England,15,10.0,1,8,1.0,3,,
+batters,786,T20I,2024,England,3,3.0,0,1,1.0,1,,
+batters,796,T20I,2022,Australia,65,93.0,11,21,2.0,9,,
+batters,796,T20I,2023,Australia,43,70.0,10,10,1.0,4,,
+batters,796,T20I,2024,Australia,2,2.0,0,0,0.0,2,,
+batters,813,IPL,2022,Rajasthan Royals,1,1.0,0,0,1.0,1,,
+batters,813,IPL,2024,Rajasthan Royals,24,58.0,10,6,0.0,1,,
+batters,813,IPL,2025,Gujarat Titans,7,13.0,2,1,0.0,3,,
+batters,813,IPL,2026,Gujarat Titans,8,15.0,3,2,1.0,2,,
+batters,813,T20I,2023,England,7,16.0,2,0,0.0,2,,
+batters,813,T20I,2024,England,6,8.0,1,2,0.0,1,,
+batters,813,T20I,2025,England,4,8.0,1,1,1.0,2,,
+batters,838,IPL,2022,Royal Challengers Bengaluru,8,13.0,2,2,2.0,2,,
+batters,838,IPL,2023,Royal Challengers Bengaluru,6,13.0,2,1,0.0,1,,
+batters,838,IPL,2024,Royal Challengers Bengaluru,4,16.0,3,0,0.0,1,,
+batters,838,IPL,2025,Punjab Kings,1,1.0,0,0,0.0,1,,
+batters,838,T20I,2023,Australia,23,50.0,7,6,0.0,1,,
+batters,838,T20I,2024,Australia,5,2.0,0,3,0.0,1,,
+batters,838,T20I,2025,Australia,10,18.0,3,4,1.0,2,,
+batters,1077,IPL,2022,Gujarat Titans,33,63.0,9,7,0.0,6,,
+batters,1077,IPL,2023,Gujarat Titans,26,47.0,8,10,3.0,6,,
+batters,1077,IPL,2024,Gujarat Titans,19,38.0,6,2,1.0,1,,
+batters,1077,IPL,2025,Lucknow Super Giants,37,61.0,8,11,2.0,4,,
+batters,1077,IPL,2026,Delhi Capitals,39,76.0,11,12,3.0,6,,
+batters,1077,T20I,2022,South Africa,11,7.0,0,5,0.0,2,,
+batters,1077,T20I,2023,South Africa,22,43.0,7,6,1.0,2,,
+batters,1077,T20I,2024,South Africa,14,10.0,1,9,1.0,3,,
+batters,1077,T20I,2025,South Africa,14,19.0,2,3,1.0,2,,
+batters,1101,T20I,2022,Ireland,62,107.0,15,15,2.0,4,,
+batters,1101,T20I,2023,Ireland,18,18.0,1,5,2.0,5,,
+batters,1101,T20I,2024,Ireland,21,32.0,3,6,2.0,5,,
+batters,1101,T20I,2025,Ireland,6,7.0,1,2,1.0,1,,
+batters,1101,T20I,2026,Ireland,17,20.0,2,8,0.0,3,,
+batters,1107,IPL,2024,Mumbai Indians,3,1.0,0,2,2.0,2,,
+batters,1107,T20I,2022,Afghanistan,20,28.0,3,7,2.0,4,,
+batters,1107,T20I,2023,Afghanistan,6,14.0,2,0,0.0,2,,
+batters,1107,T20I,2024,Afghanistan,21,41.0,6,6,1.0,5,,
+batters,1107,T20I,2025,Afghanistan,34,72.0,11,9,3.0,6,,
+batters,1107,T20I,2026,Afghanistan,19,29.0,4,7,0.0,4,,
+batters,1318,IPL,2022,Kolkata Knight Riders,60,96.0,14,28,3.0,7,,
+batters,1318,IPL,2023,Kolkata Knight Riders,68,101.0,15,29,3.0,8,,
+batters,1318,IPL,2024,Kolkata Knight Riders,25,45.0,8,10,2.0,5,,
+batters,1318,IPL,2025,Kolkata Knight Riders,31,41.0,7,17,3.0,6,,
+batters,1318,T20I,2023,West Indies,34,58.0,8,11,1.0,4,,
+batters,1318,T20I,2024,West Indies,10,19.0,3,3,1.0,2,,
+batters,1318,T20I,2025,West Indies,27,47.0,6,12,1.0,3,,
+batters,1596,IPL,2022,Chennai Super Kings,16,29.0,4,5,2.0,3,,
+batters,1596,IPL,2023,Chennai Super Kings,19,36.0,4,4,0.0,3,,
+batters,1596,IPL,2024,Chennai Super Kings,10,8.0,1,5,2.0,3,,
+batters,1596,T20I,2022,England,41,70.0,11,16,3.0,5,,
+batters,1596,T20I,2023,England,25,33.0,3,7,0.0,5,,
+batters,1596,T20I,2024,England,4,2.0,0,2,1.0,1,,
+batters,1699,IPL,2022,Mumbai Indians,18,25.0,3,7,2.0,4,,
+batters,1699,IPL,2023,Mumbai Indians,30,78.0,15,6,0.0,4,,
+batters,1699,IPL,2024,Mumbai Indians,12,26.0,4,4,1.0,1,,
+batters,1699,IPL,2025,Mumbai Indians,13,16.0,2,6,1.0,3,,
+batters,1699,IPL,2026,Mumbai Indians,7,6.0,0,2,2.0,2,,
+batters,1699,T20I,2022,India,3,9.0,2,0,0.0,1,,
+batters,1699,T20I,2023,India,24,48.0,7,5,2.0,3,,
+batters,1758,IPL,2022,Kolkata Knight Riders,9,7.0,1,6,4.0,4,,
+batters,1758,IPL,2024,Sunrisers Hyderabad,81,117.0,14,29,4.0,8,,
+batters,1758,IPL,2025,Sunrisers Hyderabad,42,76.0,11,14,3.0,8,,
+batters,1758,IPL,2026,Sunrisers Hyderabad,19,30.0,4,8,3.0,3,,
+batters,1758,T20I,2022,Australia,15,14.0,0,5,1.0,5,,
+batters,1758,T20I,2024,Australia,13,13.0,2,6,1.0,1,,
+batters,1813,IPL,2023,Chennai Super Kings,2,1.0,0,1,0.0,1,,
+batters,1813,IPL,2025,Mumbai Indians,24,37.0,5,8,0.0,3,,
+batters,1813,IPL,2026,Mumbai Indians,10,11.0,2,6,1.0,3,,
+batters,1813,T20I,2022,India,17,31.0,5,7,0.0,1,,
+batters,1813,T20I,2023,India,2,0.0,0,2,1.0,1,,
+batters,2261,IPL,2022,Royal Challengers Bengaluru,19,15.0,2,11,1.0,6,,
+batters,2261,IPL,2024,Punjab Kings,19,13.0,2,14,3.0,4,,
+batters,2261,IPL,2025,Sunrisers Hyderabad,22,19.0,0,5,1.0,4,,
+batters,2261,IPL,2026,Sunrisers Hyderabad,9,10.0,2,5,2.0,3,,
+batters,2261,T20I,2022,India,33,38.0,5,14,3.0,8,,
+batters,2320,IPL,2022,Rajasthan Royals,29,40.0,3,6,2.0,7,,
+batters,2320,IPL,2023,Rajasthan Royals,12,16.0,2,4,1.0,3,,
+batters,2320,IPL,2024,Rajasthan Royals,10,12.0,2,5,1.0,2,,
+batters,2320,IPL,2025,Mumbai Indians,2,1.0,0,1,1.0,1,,
+batters,2320,IPL,2026,Mumbai Indians,2,7.0,1,0,0.0,1,,
+batters,2320,T20I,2022,New Zealand,2,2.0,0,0,0.0,1,,
+batters,2320,T20I,2024,New Zealand,11,16.0,2,3,1.0,1,,
+batters,2382,IPL,2025,Chennai Super Kings,3,4.0,1,2,0.0,1,,
+batters,2382,IPL,2026,Chennai Super Kings,59,96.0,14,18,3.0,6,,
+batters,2382,T20I,2024,England,7,13.0,2,1,1.0,1,,
+batters,2382,T20I,2025,England,19,21.0,2,8,2.0,4,,
+batters,2382,T20I,2026,England,3,2.0,0,2,1.0,1,,
+batters,2399,IPL,2022,Lucknow Super Giants,19,31.0,4,7,2.0,4,,
+batters,2399,IPL,2025,Delhi Capitals,5,3.0,0,2,0.0,2,,
+batters,2399,IPL,2026,Delhi Capitals,3,0.0,0,3,0.0,1,,
+batters,2399,T20I,2022,Sri Lanka,14,10.0,1,8,3.0,5,,
+batters,2399,T20I,2025,Sri Lanka,9,2.0,0,7,4.0,4,,
+batters,2399,T20I,2026,Sri Lanka,14,7.0,1,10,3.0,5,,
+batters,2417,IPL,2023,Sunrisers Hyderabad,8,13.0,2,3,0.0,1,,
+batters,2417,IPL,2026,Chennai Super Kings,3,5.0,0,0,0.0,2,,
+batters,2417,T20I,2022,West Indies,41,35.0,4,23,1.0,4,,
+batters,2417,T20I,2023,West Indies,17,26.0,4,6,1.0,3,,
+batters,2417,T20I,2024,West Indies,33,38.0,3,14,5.0,7,,
+batters,2417,T20I,2025,West Indies,33,47.0,7,14,2.0,6,,
+batters,2417,T20I,2026,West Indies,15,29.0,4,5,2.0,2,,
+batters,2436,IPL,2023,Gujarat Titans,7,9.0,1,1,0.0,1,,
+batters,2436,IPL,2026,Rajasthan Royals,17,24.0,3,6,1.0,3,,
+batters,2436,T20I,2022,Sri Lanka,53,73.0,10,19,4.0,9,,
+batters,2436,T20I,2023,Sri Lanka,33,72.0,10,6,0.0,4,,
+batters,2436,T20I,2024,Sri Lanka,42,70.0,11,12,4.0,7,,
+batters,2436,T20I,2025,Sri Lanka,38,59.0,9,16,2.0,6,,
+batters,2436,T20I,2026,Sri Lanka,22,32.0,3,6,2.0,5,,
+batters,2463,T20I,2022,Zimbabwe,14,8.0,0,8,3.0,3,,
+batters,2463,T20I,2023,Zimbabwe,1,1.0,0,0,0.0,1,,
+batters,2463,T20I,2024,Zimbabwe,8,12.0,2,4,1.0,1,,
+batters,2463,T20I,2025,Zimbabwe,18,44.0,6,4,1.0,3,,
+batters,2463,T20I,2026,Zimbabwe,41,54.0,5,13,2.0,5,,
+batters,2490,T20I,2022,Pakistan,54,60.0,5,25,5.0,11,,
+batters,2490,T20I,2023,Pakistan,3,5.0,0,0,0.0,1,,
+batters,2490,T20I,2024,Pakistan,8,20.0,3,3,0.0,1,,
+batters,2490,T20I,2025,Pakistan,69,80.0,7,23,8.0,13,,
+batters,2490,T20I,2026,Pakistan,16,26.0,4,4,1.0,3,,
+batters,2526,T20I,2022,New Zealand,18,29.0,4,6,4.0,6,,
+batters,2526,T20I,2023,New Zealand,22,19.0,2,13,4.0,5,,
+batters,2526,T20I,2024,New Zealand,32,24.0,2,16,8.0,9,,
+batters,2526,T20I,2025,New Zealand,16,14.0,1,7,1.0,3,,
+batters,2526,T20I,2026,New Zealand,5,2.0,0,3,0.0,1,,
+batters,2633,IPL,2022,Lucknow Super Giants,23,37.0,4,6,3.0,7,,
+batters,2633,IPL,2023,Rajasthan Royals,1,0.0,0,1,1.0,1,,
+batters,2633,IPL,2026,Gujarat Titans,10,10.0,1,4,2.0,3,,
+batters,2633,T20I,2022,West Indies,31,46.0,6,10,3.0,5,,
+batters,2633,T20I,2023,West Indies,17,30.0,3,3,3.0,7,,
+batters,2633,T20I,2024,West Indies,6,3.0,0,3,0.0,2,,
+batters,2633,T20I,2025,West Indies,72,100.0,14,33,7.0,15,,
+batters,2633,T20I,2026,West Indies,6,16.0,2,1,1.0,2,,
+batters,2639,IPL,2022,Lucknow Super Giants,39,61.0,7,9,1.0,5,,
+batters,2639,IPL,2023,Lucknow Super Giants,12,18.0,2,4,2.0,4,,
+batters,2639,IPL,2024,Lucknow Super Giants,17,32.0,5,5,2.0,3,,
+batters,2639,IPL,2025,Punjab Kings,31,72.0,10,6,1.0,6,,
+batters,2639,IPL,2026,Punjab Kings,33,60.0,11,10,3.0,4,,
+batters,2639,T20I,2022,Australia,14,20.0,2,4,2.0,3,,
+batters,2639,T20I,2023,Australia,4,7.0,1,1,1.0,1,,
+batters,2639,T20I,2024,Australia,6,20.0,3,0,0.0,1,,
+batters,2639,T20I,2025,Australia,12,12.0,1,5,1.0,1,,
+batters,2680,T20I,2022,Bangladesh,62,91.0,10,20,2.0,9,,
+batters,2680,T20I,2025,Bangladesh,22,34.0,4,4,1.0,6,,
+batters,2680,T20I,2026,Bangladesh,2,4.0,1,1,1.0,1,,
+batters,2681,T20I,2022,Bangladesh,12,14.0,1,7,1.0,3,,
+batters,2681,T20I,2023,Bangladesh,1,0.0,0,1,1.0,1,,
+batters,2681,T20I,2024,Bangladesh,27,40.0,6,12,1.0,4,,
+batters,2681,T20I,2025,Bangladesh,16,28.0,4,5,2.0,4,,
+batters,2681,T20I,2026,Bangladesh,4,6.0,1,1,0.0,2,,
+batters,2687,T20I,2024,West Indies,31,48.0,5,8,1.0,4,,
+batters,2687,T20I,2025,West Indies,23,31.0,4,7,2.0,5,,
+batters,2687,T20I,2026,West Indies,12,13.0,1,4,1.0,1,,
+batters,2756,IPL,2022,Sunrisers Hyderabad,30,52.0,7,10,1.0,5,,
+batters,2756,IPL,2024,Punjab Kings,43,82.0,11,5,1.0,7,,
+batters,2756,IPL,2025,Punjab Kings,29,30.0,3,8,0.0,7,,
+batters,2756,IPL,2026,Punjab Kings,24,46.0,6,7,2.0,6,,
+batters,2847,IPL,2022,Delhi Capitals,51,71.0,8,17,6.0,9,,
+batters,2847,IPL,2023,Kolkata Knight Riders,24,32.0,4,9,4.0,6,,
+batters,2847,IPL,2024,Chennai Super Kings,8,17.0,3,2,0.0,1,,
+batters,2847,IPL,2025,Lucknow Super Giants,12,18.0,3,5,3.0,5,,
+batters,2847,IPL,2026,Mumbai Indians,8,4.0,0,4,0.0,3,,
+batters,2876,IPL,2022,Delhi Capitals,54,72.0,6,17,2.0,8,,
+batters,2876,IPL,2023,Delhi Capitals,44,64.0,7,11,2.0,7,,
+batters,2876,IPL,2024,Delhi Capitals,37,58.0,6,9,2.0,5,,
+batters,2876,IPL,2026,Delhi Capitals,16,25.0,3,4,0.0,3,,
+batters,2876,T20I,2022,India,29,49.0,7,10,3.0,7,,
+batters,2876,T20I,2023,India,39,62.0,8,12,4.0,6,,
+batters,2876,T20I,2024,India,13,18.0,2,5,1.0,3,,
+batters,2876,T20I,2025,India,51,66.0,7,16,3.0,5,,
+batters,2876,T20I,2026,India,52,62.0,6,14,6.0,11,,
+batters,2984,IPL,2023,Punjab Kings,12,18.0,2,3,0.0,3,,
+batters,2984,IPL,2024,Punjab Kings,3,3.0,0,1,0.0,1,,
+batters,2984,T20I,2022,Zimbabwe,19,34.0,4,4,2.0,3,,
+batters,2984,T20I,2023,Zimbabwe,2,4.0,1,1,1.0,1,,
+batters,2984,T20I,2024,Zimbabwe,16,27.0,3,4,2.0,3,,
+batters,2984,T20I,2025,Zimbabwe,22,40.0,6,7,1.0,2,,
+batters,2984,T20I,2026,Zimbabwe,20,35.0,5,6,0.0,2,,
+batters,3056,T20I,2022,Pakistan,18,28.0,3,6,0.0,3,,
+batters,3056,T20I,2023,Pakistan,21,56.0,8,2,0.0,2,,
+batters,3056,T20I,2024,Pakistan,40,55.0,7,13,2.0,5,,
+batters,3125,IPL,2022,Sunrisers Hyderabad,18,46.0,6,3,0.0,3,,
+batters,3125,IPL,2023,Lucknow Super Giants,24,68.0,11,9,2.0,5,,
+batters,3125,IPL,2024,Lucknow Super Giants,36,73.0,10,12,0.0,6,,
+batters,3125,IPL,2026,Lucknow Super Giants,1,4.0,1,0,0.0,1,,
+batters,3125,T20I,2022,West Indies,12,21.0,3,4,0.0,2,,
+batters,3125,T20I,2024,West Indies,7,14.0,2,3,1.0,1,,
+batters,3275,IPL,2022,Gujarat Titans,7,5.0,0,2,1.0,3,,
+batters,3275,IPL,2023,Gujarat Titans,3,3.0,0,0,0.0,1,,
+batters,3275,T20I,2022,West Indies,10,7.0,1,8,1.0,2,,
+batters,3275,T20I,2023,West Indies,12,14.0,2,6,0.0,2,,
+batters,3275,T20I,2024,West Indies,44,49.0,6,19,3.0,6,,
+batters,3275,T20I,2025,West Indies,9,8.0,0,2,1.0,3,,
+batters,3276,T20I,2023,West Indies,1,0.0,0,1,0.0,1,,
+batters,3276,T20I,2024,West Indies,41,57.0,9,19,4.0,7,,
+batters,3276,T20I,2025,West Indies,23,40.0,6,10,2.0,4,,
+batters,3276,T20I,2026,West Indies,12,12.0,1,3,0.0,3,,
+batters,3297,IPL,2022,Rajasthan Royals,41,83.0,11,11,1.0,7,,
+batters,3297,IPL,2023,Rajasthan Royals,69,101.0,12,27,3.0,9,,
+batters,3297,IPL,2024,Rajasthan Royals,25,37.0,5,11,2.0,4,,
+batters,3297,IPL,2025,Rajasthan Royals,56,69.0,8,22,5.0,8,,
+batters,3297,IPL,2026,Rajasthan Royals,7,10.0,1,2,2.0,2,,
+batters,3297,T20I,2022,West Indies,32,23.0,4,23,2.0,4,,
+batters,3297,T20I,2023,West Indies,18,34.0,4,4,1.0,2,,
+batters,3297,T20I,2025,West Indies,10,21.0,4,4,1.0,2,,
+batters,3297,T20I,2026,West Indies,8,20.0,3,3,0.0,2,,
+batters,3298,IPL,2023,Mumbai Indians,2,3.0,0,0,0.0,1,,
+batters,3298,IPL,2025,Rajasthan Royals,34,44.0,5,15,4.0,6,,
+batters,3298,IPL,2026,Rajasthan Royals,32,51.0,7,12,4.0,8,,
+batters,3298,T20I,2023,England,1,0.0,0,1,1.0,1,,
+batters,3298,T20I,2024,England,9,16.0,2,4,1.0,2,,
+batters,3298,T20I,2025,England,25,25.0,2,9,3.0,5,,
+batters,3298,T20I,2026,England,2,5.0,1,0,0.0,1,,
+batters,3323,IPL,2022,Rajasthan Royals,15,17.0,1,3,1.0,1,,
+batters,3323,T20I,2022,New Zealand,28,31.0,2,12,2.0,7,,
+batters,3323,T20I,2023,New Zealand,31,64.0,11,9,4.0,6,,
+batters,3323,T20I,2024,New Zealand,6,10.0,1,1,0.0,2,,
+batters,3323,T20I,2025,New Zealand,17,19.0,2,7,1.0,2,,
+batters,3323,T20I,2026,New Zealand,11,6.0,0,5,0.0,2,,
+batters,3330,IPL,2022,Gujarat Titans,12,26.0,4,1,0.0,3,,
+batters,3330,IPL,2023,Gujarat Titans,6,5.0,0,2,0.0,1,,
+batters,3330,IPL,2024,Mumbai Indians,21,23.0,3,10,3.0,6,,
+batters,3330,IPL,2025,Mumbai Indians,39,75.0,11,11,1.0,5,,
+batters,3330,IPL,2026,Mumbai Indians,19,36.0,5,5,2.0,5,,
+batters,3330,T20I,2022,India,48,102.0,17,12,1.0,9,,
+batters,3330,T20I,2023,India,1,1.0,0,0,0.0,1,,
+batters,3330,T20I,2024,India,15,16.0,3,8,1.0,3,,
+batters,3330,T20I,2025,India,24,38.0,5,7,0.0,2,,
+batters,3374,T20I,2022,New Zealand,2,4.0,1,1,1.0,1,,
+batters,3374,T20I,2023,New Zealand,40,67.0,10,16,2.0,6,,
+batters,3374,T20I,2024,New Zealand,7,14.0,2,1,1.0,2,,
+batters,3374,T20I,2026,New Zealand,5,10.0,2,3,1.0,1,,
+batters,3605,IPL,2022,Sunrisers Hyderabad,14,29.0,4,5,1.0,3,,
+batters,3605,IPL,2023,Sunrisers Hyderabad,14,20.0,2,3,2.0,3,,
+batters,3605,IPL,2024,Sunrisers Hyderabad,2,1.0,0,1,1.0,1,,
+batters,3605,IPL,2026,Lucknow Super Giants,2,2.0,0,0,0.0,1,,
+batters,3605,T20I,2023,South Africa,13,15.0,1,3,1.0,3,,
+batters,3605,T20I,2025,South Africa,14,23.0,3,3,1.0,3,,
+batters,3628,IPL,2022,Punjab Kings,37,46.0,7,18,3.0,6,,
+batters,3628,IPL,2024,Punjab Kings,4,9.0,1,0,1.0,2,,
+batters,3628,IPL,2025,Gujarat Titans,5,7.0,1,3,0.0,1,,
+batters,3628,IPL,2026,Gujarat Titans,19,20.0,2,8,0.0,3,,
+batters,3628,T20I,2022,South Africa,19,16.0,1,7,1.0,2,,
+batters,3628,T20I,2025,South Africa,10,17.0,3,4,1.0,3,,
+batters,3629,IPL,2025,Mumbai Indians,29,46.0,6,10,1.0,2,,
+batters,3629,IPL,2026,Mumbai Indians,31,50.0,7,10,1.0,4,,
+batters,3629,T20I,2025,South Africa,36,40.0,4,12,4.0,6,,
+batters,3644,IPL,2022,Delhi Capitals,27,22.0,1,12,0.0,6,,
+batters,3644,IPL,2023,Delhi Capitals,15,10.0,1,8,1.0,5,,
+batters,3644,IPL,2024,Delhi Capitals,34,43.0,7,15,0.0,4,,
+batters,3644,IPL,2025,Delhi Capitals,9,11.0,2,4,2.0,4,,
+batters,3644,IPL,2026,Delhi Capitals,10,5.0,0,5,0.0,3,,
+batters,3644,T20I,2023,India,11,3.0,0,8,3.0,3,,
+batters,3644,T20I,2025,India,9,1.0,0,8,1.0,2,,
+batters,3647,IPL,2022,Kolkata Knight Riders,5,13.0,2,1,1.0,1,,
+batters,3647,IPL,2024,Kolkata Knight Riders,14,22.0,3,3,2.0,2,,
+batters,3647,IPL,2025,Punjab Kings,10,29.0,5,2,0.0,2,,
+batters,3647,IPL,2026,Punjab Kings,7,19.0,3,1,0.0,2,,
+batters,3647,T20I,2023,India,4,11.0,2,1,1.0,1,,
+batters,3647,T20I,2026,India,35,58.0,6,8,2.0,4,,
+batters,3648,IPL,2022,Lucknow Super Giants,23,23.0,2,8,1.0,4,,
+batters,3648,IPL,2023,Lucknow Super Giants,13,15.0,1,3,0.0,1,,
+batters,3648,IPL,2024,Lucknow Super Giants,6,17.0,3,1,0.0,1,,
+batters,3648,IPL,2025,Chennai Super Kings,21,19.0,2,13,3.0,3,,
+batters,3648,T20I,2022,India,10,8.0,1,6,2.0,3,,
+batters,3648,T20I,2023,India,13,15.0,2,6,2.0,3,,
+batters,3782,IPL,2022,Punjab Kings,22,27.0,3,12,2.0,3,,
+batters,3782,IPL,2023,Punjab Kings,33,64.0,10,8,3.0,8,,
+batters,3782,IPL,2024,Gujarat Titans,13,22.0,3,4,2.0,2,,
+batters,3782,IPL,2025,Gujarat Titans,16,26.0,3,3,1.0,5,,
+batters,3782,IPL,2026,Gujarat Titans,16,22.0,3,7,2.0,3,,
+batters,3916,IPL,2022,Punjab Kings,24,42.0,6,9,1.0,3,,
+batters,3916,IPL,2023,Punjab Kings,24,56.0,8,7,3.0,4,,
+batters,3916,IPL,2024,Punjab Kings,31,57.0,7,8,2.0,5,,
+batters,3916,IPL,2025,Royal Challengers Bengaluru,27,47.0,7,8,2.0,5,,
+batters,3916,IPL,2026,Royal Challengers Bengaluru,12,23.0,3,3,1.0,2,,
+batters,3916,T20I,2023,India,1,0.0,0,1,1.0,1,,
+batters,3916,T20I,2025,India,13,17.0,2,5,1.0,3,,
+batters,3926,IPL,2022,Gujarat Titans,44,69.0,10,12,3.0,6,,
+batters,3926,IPL,2023,Gujarat Titans,30,45.0,4,7,2.0,10,,
+batters,3926,IPL,2024,Gujarat Titans,54,77.0,10,17,2.0,6,,
+batters,3926,IPL,2025,Gujarat Titans,41,68.0,9,13,3.0,8,,
+batters,3926,IPL,2026,Gujarat Titans,32,32.0,4,16,1.0,6,,
+batters,4101,IPL,2022,Chennai Super Kings,3,2.0,0,1,0.0,2,,
+batters,4101,IPL,2023,Chennai Super Kings,4,2.0,0,2,0.0,2,,
+batters,4101,IPL,2024,Chennai Super Kings,3,3.0,0,0,0.0,1,,
+batters,4101,IPL,2025,Mumbai Indians,17,13.0,1,7,1.0,5,,
+batters,4101,IPL,2026,Mumbai Indians,4,4.0,0,1,0.0,1,,
+batters,4101,T20I,2022,New Zealand,17,13.0,0,7,2.0,5,,
+batters,4101,T20I,2023,New Zealand,27,34.0,4,9,1.0,5,,
+batters,4101,T20I,2024,New Zealand,11,15.0,3,6,1.0,4,,
+batters,4101,T20I,2025,New Zealand,37,59.0,10,13,1.0,5,,
+batters,4101,T20I,2026,New Zealand,44,65.0,10,19,3.0,7,,
+batters,4106,IPL,2024,Chennai Super Kings,2,2.0,0,0,0.0,2,,
+batters,4106,T20I,2022,New Zealand,10,8.0,0,3,2.0,3,,
+batters,4106,T20I,2023,New Zealand,21,45.0,6,4,2.0,4,,
+batters,4106,T20I,2024,New Zealand,2,6.0,1,0,0.0,1,,
+batters,4106,T20I,2025,New Zealand,27,43.0,6,7,3.0,4,,
+batters,4106,T20I,2026,New Zealand,21,44.0,6,4,0.0,3,,
+batters,4219,IPL,2022,Lucknow Super Giants,24,38.0,5,7,3.0,4,,
+batters,4219,IPL,2023,Lucknow Super Giants,5,10.0,2,1,0.0,3,,
+batters,4219,IPL,2024,Lucknow Super Giants,35,44.0,5,12,1.0,8,,
+batters,4219,IPL,2025,Royal Challengers Bengaluru,14,8.0,0,7,2.0,4,,
+batters,4219,IPL,2026,Royal Challengers Bengaluru,29,40.0,5,10,0.0,3,,
+batters,4229,IPL,2026,Lucknow Super Giants,21,31.0,6,10,3.0,3,,
+batters,4229,T20I,2024,South Africa,15,31.0,5,5,1.0,1,,
+batters,4229,T20I,2025,South Africa,15,22.0,2,6,3.0,3,,
+batters,4229,T20I,2026,South Africa,27,62.0,10,7,1.0,3,,
+batters,4260,IPL,2023,Sunrisers Hyderabad,70,102.0,10,12,1.0,8,,
+batters,4260,IPL,2024,Sunrisers Hyderabad,26,46.0,5,8,1.0,4,,
+batters,4260,IPL,2025,Sunrisers Hyderabad,14,23.0,3,4,2.0,2,,
+batters,4260,IPL,2026,Sunrisers Hyderabad,15,25.0,4,5,3.0,5,,
+batters,4260,T20I,2022,South Africa,15,19.0,2,5,1.0,2,,
+batters,4260,T20I,2023,South Africa,1,0.0,0,1,1.0,1,,
+batters,4260,T20I,2024,South Africa,6,9.0,1,2,0.0,1,,
+batters,4391,IPL,2022,Punjab Kings,24,60.0,10,4,1.0,5,,
+batters,4391,IPL,2023,Punjab Kings,4,1.0,0,3,0.0,1,,
+batters,4391,IPL,2024,Punjab Kings,11,10.0,1,4,1.0,3,,
+batters,4391,IPL,2025,Royal Challengers Bengaluru,5,10.0,1,1,0.0,1,,
+batters,4391,IPL,2026,Sunrisers Hyderabad,5,1.0,0,4,1.0,1,,
+batters,4391,T20I,2022,England,28,34.0,4,10,2.0,4,,
+batters,4391,T20I,2023,England,25,27.0,2,10,3.0,4,,
+batters,4391,T20I,2024,England,3,2.0,0,1,0.0,1,,
+batters,4391,T20I,2025,England,14,28.0,4,7,1.0,1,,
+batters,4409,IPL,2023,Punjab Kings,25,41.0,5,7,5.0,7,,
+batters,4409,IPL,2024,Punjab Kings,18,22.0,2,6,2.0,3,,
+batters,4409,T20I,2022,England,25,30.0,3,12,4.0,6,,
+batters,4409,T20I,2023,England,43,49.0,5,16,4.0,5,,
+batters,4409,T20I,2025,England,12,21.0,2,2,0.0,2,,
+batters,4409,T20I,2026,England,16,27.0,4,4,1.0,3,,
+batters,4639,T20I,2022,Zimbabwe,6,6.0,1,3,1.0,1,,
+batters,4639,T20I,2023,Zimbabwe,5,4.0,0,1,1.0,1,,
+batters,4639,T20I,2024,Zimbabwe,65,79.0,9,26,7.0,11,,
+batters,4639,T20I,2025,Zimbabwe,11,13.0,1,3,2.0,4,,
+batters,4686,T20I,2024,New Zealand,33,44.0,6,16,2.0,3,,
+batters,4686,T20I,2026,New Zealand,29,50.0,5,8,1.0,4,,
+batters,4708,IPL,2022,Kolkata Knight Riders,29,36.0,5,12,0.0,4,,
+batters,4708,IPL,2023,Kolkata Knight Riders,76,109.0,12,23,3.0,10,,
+batters,4708,IPL,2024,Kolkata Knight Riders,15,33.0,5,3,0.0,4,,
+batters,4708,IPL,2025,Kolkata Knight Riders,20,22.0,3,8,1.0,6,,
+batters,4708,IPL,2026,Kolkata Knight Riders,53,90.0,13,17,2.0,5,,
+batters,4708,T20I,2023,India,4,3.0,0,2,1.0,4,,
+batters,4708,T20I,2024,India,23,30.0,4,11,2.0,5,,
+batters,4708,T20I,2025,India,3,5.0,1,1,0.0,1,,
+batters,4708,T20I,2026,India,22,46.0,8,7,1.0,3,,
+batters,4722,IPL,2022,Gujarat Titans,38,76.0,10,10,2.0,7,,
+batters,4722,IPL,2023,Gujarat Titans,31,68.0,11,12,2.0,6,,
+batters,4722,IPL,2024,Gujarat Titans,28,35.0,3,9,2.0,6,,
+batters,4722,IPL,2025,Gujarat Titans,21,36.0,5,10,4.0,6,,
+batters,4722,IPL,2026,Gujarat Titans,25,25.0,3,13,3.0,5,,
+batters,4722,T20I,2022,Afghanistan,41,38.0,3,18,4.0,8,,
+batters,4722,T20I,2023,Afghanistan,19,25.0,4,12,2.0,3,,
+batters,4722,T20I,2024,Afghanistan,31,38.0,4,10,2.0,6,,
+batters,4722,T20I,2025,Afghanistan,57,86.0,12,28,4.0,9,,
+batters,4722,T20I,2026,Afghanistan,37,66.0,10,17,4.0,6,,
+batters,4755,IPL,2022,Chennai Super Kings,15,26.0,3,4,2.0,3,,
+batters,4755,IPL,2023,Chennai Super Kings,27,38.0,3,8,1.0,4,,
+batters,4755,IPL,2024,Chennai Super Kings,18,27.0,3,3,1.0,3,,
+batters,4755,IPL,2025,Chennai Super Kings,37,48.0,7,12,2.0,7,,
+batters,4755,IPL,2026,Chennai Super Kings,47,65.0,9,17,2.0,8,,
+batters,4755,T20I,2024,India,5,16.0,3,0,0.0,1,,
+batters,4755,T20I,2025,India,10,18.0,4,4,2.0,3,,
+batters,4755,T20I,2026,India,42,104.0,15,7,3.0,8,,
+batters,4773,T20I,2024,Bangladesh,56,122.0,18,16,3.0,6,,
+batters,4773,T20I,2025,Bangladesh,77,108.0,12,26,4.0,10,,
+batters,4821,IPL,2022,Royal Challengers Bengaluru,9,17.0,3,4,1.0,2,,
+batters,4821,IPL,2023,Royal Challengers Bengaluru,9,2.0,0,7,1.0,4,,
+batters,4821,IPL,2024,Royal Challengers Bengaluru,34,62.0,11,13,4.0,7,,
+batters,4823,IPL,2022,Sunrisers Hyderabad,19,19.0,1,8,3.0,5,,
+batters,4823,IPL,2023,Sunrisers Hyderabad,29,44.0,6,5,2.0,4,,
+batters,4823,IPL,2024,Sunrisers Hyderabad,1,0.0,0,1,1.0,1,,
+batters,4823,IPL,2026,Gujarat Titans,24,45.0,6,4,1.0,6,,
+batters,4823,T20I,2022,India,1,0.0,0,1,1.0,1,,
+batters,4823,T20I,2023,India,14,15.0,2,6,0.0,2,,
+batters,4823,T20I,2024,India,34,40.0,5,16,1.0,4,,
+batters,4823,T20I,2025,India,7,12.0,2,1,1.0,1,,
+batters,4823,T20I,2026,India,4,2.0,0,2,0.0,1,,
+batters,4840,IPL,2022,Punjab Kings,20,18.0,2,12,2.0,5,,
+batters,4840,T20I,2022,West Indies,36,54.0,7,13,4.0,8,,
+batters,4840,T20I,2023,West Indies,17,26.0,2,4,0.0,2,,
+batters,4842,T20I,2024,West Indies,6,7.0,1,2,1.0,1,,
+batters,4842,T20I,2025,West Indies,29,48.0,6,6,0.0,2,,
+batters,4842,T20I,2026,West Indies,22,26.0,4,11,2.0,3,,
+batters,4853,IPL,2023,Sunrisers Hyderabad,10,20.0,3,4,2.0,3,,
+batters,4853,IPL,2026,Gujarat Titans,1,4.0,1,0,0.0,1,,
+batters,4853,T20I,2022,New Zealand,13,34.0,5,2,0.0,2,,
+batters,4853,T20I,2023,New Zealand,9,6.0,1,6,2.0,2,,
+batters,4853,T20I,2024,New Zealand,20,28.0,2,3,3.0,4,,
+batters,4853,T20I,2026,New Zealand,6,16.0,2,1,1.0,1,,
+batters,4900,IPL,2022,Royal Challengers Bengaluru,21,24.0,3,10,5.0,6,,
+batters,4900,IPL,2023,Royal Challengers Bengaluru,27,32.0,3,8,1.0,5,,
+batters,4900,IPL,2025,Rajasthan Royals,2,0.0,0,2,0.0,1,,
+batters,4900,T20I,2022,Sri Lanka,34,43.0,5,10,2.0,5,,
+batters,4900,T20I,2023,Sri Lanka,15,13.0,1,7,1.0,3,,
+batters,4900,T20I,2024,Sri Lanka,12,14.0,2,4,3.0,7,,
+batters,4900,T20I,2025,Sri Lanka,25,13.0,0,14,2.0,5,,
+batters,4900,T20I,2026,Sri Lanka,25,28.0,3,11,4.0,6,,
+batters,4904,IPL,2025,Sunrisers Hyderabad,2,0.0,0,2,0.0,1,,
+batters,4904,T20I,2024,Sri Lanka,22,48.0,9,6,2.0,3,,
+batters,4904,T20I,2025,Sri Lanka,19,34.0,4,6,3.0,6,,
+batters,4904,T20I,2026,Sri Lanka,19,17.0,2,9,2.0,2,,
+batters,4986,IPL,2022,Delhi Capitals,18,13.0,1,8,4.0,6,,
+batters,4986,IPL,2023,Delhi Capitals,5,3.0,0,3,2.0,2,,
+batters,4986,IPL,2024,Rajasthan Royals,44,69.0,10,17,2.0,6,,
+batters,4986,IPL,2025,Kolkata Knight Riders,5,5.0,1,3,1.0,1,,
+batters,4986,IPL,2026,Kolkata Knight Riders,22,25.0,2,7,0.0,2,,
+batters,4986,T20I,2022,West Indies,33,38.0,3,11,3.0,5,,
+batters,4986,T20I,2023,West Indies,21,39.0,4,4,1.0,4,,
+batters,4986,T20I,2024,West Indies,67,89.0,11,24,2.0,6,,
+batters,4986,T20I,2025,West Indies,36,48.0,7,15,3.0,6,,
+batters,4986,T20I,2026,West Indies,1,1.0,0,0,0.0,1,,
+batters,5189,T20I,2023,Pakistan,22,34.0,4,5,1.0,3,,
+batters,5189,T20I,2025,Pakistan,129,194.0,23,52,13.0,19,,
+batters,5189,T20I,2026,Pakistan,4,10.0,2,0,0.0,1,,
+batters,5379,T20I,2022,Ireland,59,90.0,14,26,4.0,7,,
+batters,5379,T20I,2023,Ireland,30,32.0,3,15,2.0,6,,
+batters,5379,T20I,2024,Ireland,40,50.0,6,16,6.0,9,,
+batters,5379,T20I,2025,Ireland,9,8.0,1,5,1.0,1,,
+batters,5379,T20I,2026,Ireland,16,23.0,2,4,0.0,1,,
+batters,5441,T20I,2022,Ireland,24,35.0,5,8,1.0,3,,
+batters,5441,T20I,2023,Ireland,23,37.0,5,9,3.0,5,,
+batters,5441,T20I,2024,Ireland,9,5.0,0,4,1.0,3,,
+batters,5441,T20I,2025,Ireland,1,0.0,0,1,1.0,1,,
+batters,5738,IPL,2025,Punjab Kings,8,5.0,0,3,1.0,1,,
+batters,5738,IPL,2026,Punjab Kings,8,18.0,3,3,1.0,2,,
+batters,5738,T20I,2024,Australia,8,5.0,1,6,1.0,2,,
+batters,5738,T20I,2025,Australia,3,3.0,0,1,1.0,2,,
+batters,5738,T20I,2026,Australia,24,26.0,4,12,1.0,2,,
+batters,5809,IPL,2023,Lucknow Super Giants,19,15.0,2,11,1.0,3,,
+batters,5809,T20I,2022,Afghanistan,14,11.0,1,7,0.0,2,,
+batters,5809,T20I,2024,Afghanistan,22,15.0,2,15,2.0,5,,
+batters,5837,T20I,2022,Bangladesh,25,26.0,3,11,3.0,4,,
+batters,5837,T20I,2024,Bangladesh,21,28.0,4,6,1.0,2,,
+batters,5837,T20I,2025,Bangladesh,3,6.0,1,0,0.0,1,,
+batters,5837,T20I,2026,Bangladesh,33,43.0,7,11,1.0,3,,
+batters,5939,IPL,2023,Mumbai Indians,17,26.0,3,6,0.0,4,,
+batters,5939,IPL,2024,Royal Challengers Bengaluru,16,22.0,3,4,1.0,4,,
+batters,5939,IPL,2026,Kolkata Knight Riders,12,4.0,0,8,2.0,2,,
+batters,5939,T20I,2024,Australia,15,17.0,1,5,1.0,2,,
+batters,5939,T20I,2026,Australia,6,8.0,0,0,0.0,1,,
+batters,6160,T20I,2022,Sri Lanka,70,74.0,9,34,5.0,10,,
+batters,6160,T20I,2023,Sri Lanka,21,29.0,3,6,0.0,2,,
+batters,6160,T20I,2025,Sri Lanka,5,8.0,1,1,0.0,1,,
+batters,6161,IPL,2022,Punjab Kings,61,70.0,10,32,6.0,8,,
+batters,6161,IPL,2023,Punjab Kings,7,0.0,0,7,0.0,1,,
+batters,6161,IPL,2024,Punjab Kings,13,20.0,4,7,0.0,2,,
+batters,6355,T20I,2023,Pakistan,5,3.0,0,2,2.0,2,,
+batters,6355,T20I,2024,Pakistan,54,56.0,7,29,5.0,8,,
+batters,6355,T20I,2025,Pakistan,80,101.0,14,45,5.0,11,,
+batters,6355,T20I,2026,Pakistan,1,0.0,0,1,1.0,1,,
+batters,6396,IPL,2022,Mumbai Indians,31,66.0,10,9,1.0,5,,
+batters,6396,IPL,2023,Mumbai Indians,58,107.0,13,18,4.0,8,,
+batters,6396,IPL,2024,Mumbai Indians,72,93.0,10,27,4.0,10,,
+batters,6396,IPL,2025,Royal Challengers Bengaluru,63,130.0,21,23,1.0,8,,
+batters,6396,IPL,2026,Royal Challengers Bengaluru,18,46.0,8,4,1.0,2,,
+batters,6396,T20I,2022,Australia,23,41.0,6,6,1.0,3,,
+batters,6396,T20I,2023,Australia,8,7.0,1,4,1.0,4,,
+batters,6396,T20I,2024,Australia,13,24.0,3,4,0.0,4,,
+batters,6396,T20I,2025,Australia,14,23.0,3,7,1.0,1,,
+batters,6423,IPL,2022,Rajasthan Royals,63,91.0,11,19,5.0,7,,
+batters,6423,IPL,2023,Rajasthan Royals,16,20.0,2,7,0.0,2,,
+batters,6423,IPL,2024,Rajasthan Royals,19,38.0,6,4,1.0,3,,
+batters,6423,IPL,2025,Rajasthan Royals,9,8.0,0,2,1.0,2,,
+batters,6423,IPL,2026,Rajasthan Royals,5,2.0,0,4,0.0,2,,
+batters,6423,T20I,2024,India,6,14.0,2,2,2.0,2,,
+batters,6448,T20I,2022,Afghanistan,34,45.0,5,13,0.0,3,,
+batters,6448,T20I,2024,Afghanistan,16,23.0,3,4,0.0,2,,
+batters,6448,T20I,2026,Afghanistan,1,4.0,1,0,0.0,1,,
+batters,6450,T20I,2022,Afghanistan,2,1.0,0,1,0.0,1,,
+batters,6450,T20I,2023,Afghanistan,4,1.0,0,3,1.0,3,,
+batters,6450,T20I,2024,Afghanistan,9,21.0,4,4,0.0,1,,
+batters,6450,T20I,2025,Afghanistan,25,26.0,4,12,0.0,2,,
+batters,6450,T20I,2026,Afghanistan,14,16.0,2,5,2.0,6,,
+batters,6460,IPL,2022,Lucknow Super Giants,29,39.0,4,10,2.0,5,,
+batters,6460,IPL,2023,Lucknow Super Giants,38,71.0,8,6,1.0,5,,
+batters,6460,IPL,2024,Lucknow Super Giants,37,58.0,6,7,1.0,5,,
+batters,6460,IPL,2025,Lucknow Super Giants,11,20.0,3,2,0.0,5,,
+batters,6460,IPL,2026,Lucknow Super Giants,23,41.0,6,9,2.0,3,,
+batters,6464,IPL,2022,Punjab Kings,26,20.0,3,18,3.0,5,,
+batters,6464,IPL,2024,Punjab Kings,0,0.0,0,0,0.0,1,,
+batters,6464,IPL,2025,Punjab Kings,1,1.0,0,0,0.0,1,,
+batters,6464,IPL,2026,Punjab Kings,1,1.0,0,0,0.0,1,,
+batters,6464,T20I,2022,India,3,4.0,0,0,0.0,3,,
+batters,6464,T20I,2023,India,16,27.0,4,5,2.0,5,,
+batters,6464,T20I,2024,India,11,18.0,3,6,1.0,4,,
+batters,6464,T20I,2025,India,6,1.0,0,5,2.0,4,,
+batters,6464,T20I,2026,India,24,24.0,2,10,3.0,8,,
+batters,6512,IPL,2023,Royal Challengers Bengaluru,17,22.0,2,4,0.0,2,,
+batters,6512,T20I,2022,New Zealand,11,8.0,1,8,1.0,5,,
+batters,6512,T20I,2023,New Zealand,3,7.0,1,1,0.0,1,,
+batters,6512,T20I,2024,New Zealand,9,12.0,0,3,1.0,3,,
+batters,6512,T20I,2025,New Zealand,36,39.0,5,17,6.0,7,,
+batters,6512,T20I,2026,New Zealand,2,10.0,2,0,0.0,1,,
+batters,6628,IPL,2024,Mumbai Indians,16,13.0,1,8,2.0,5,,
+batters,6628,IPL,2025,Gujarat Titans,6,13.0,2,1,0.0,2,,
+batters,6628,T20I,2023,South Africa,11,8.0,0,3,1.0,3,,
+batters,6628,T20I,2024,South Africa,14,16.0,2,8,2.0,4,,
+batters,6628,T20I,2026,South Africa,3,2.0,0,2,2.0,2,,
+batters,6676,IPL,2024,Gujarat Titans,6,5.0,0,2,0.0,1,,
+batters,6676,IPL,2025,Punjab Kings,17,24.0,3,6,3.0,4,,
+batters,6676,IPL,2026,Punjab Kings,19,39.0,6,7,1.0,2,,
+batters,6676,T20I,2022,Afghanistan,14,16.0,2,4,1.0,4,,
+batters,6676,T20I,2023,Afghanistan,3,3.0,0,0,0.0,2,,
+batters,6676,T20I,2025,Afghanistan,14,23.0,3,6,1.0,4,,
+batters,6676,T20I,2026,Afghanistan,27,47.0,6,7,2.0,4,,
+batters,6725,IPL,2022,Royal Challengers Bengaluru,4,2.0,0,2,0.0,1,,
+batters,6725,IPL,2025,Gujarat Titans,15,24.0,4,3,2.0,2,,
+batters,6725,IPL,2026,Mumbai Indians,7,10.0,1,3,2.0,4,,
+batters,6725,T20I,2023,West Indies,8,18.0,3,3,2.0,2,,
+batters,6725,T20I,2024,West Indies,14,24.0,4,6,3.0,4,,
+batters,6725,T20I,2025,West Indies,17,18.0,2,9,2.0,3,,
+batters,6725,T20I,2026,West Indies,37,59.0,9,11,1.0,4,,
+batters,6726,IPL,2022,Sunrisers Hyderabad,9,7.0,1,7,0.0,2,,
+batters,6726,IPL,2024,Mumbai Indians,12,35.0,6,1,1.0,3,,
+batters,6726,IPL,2025,Royal Challengers Bengaluru,19,54.0,10,5,2.0,3,,
+batters,6726,IPL,2026,Royal Challengers Bengaluru,23,14.0,2,15,2.0,3,,
+batters,6726,T20I,2022,West Indies,44,47.0,6,26,1.0,5,,
+batters,6726,T20I,2023,West Indies,34,58.0,6,8,0.0,4,,
+batters,6726,T20I,2024,West Indies,89,131.0,18,32,4.0,10,,
+batters,6726,T20I,2025,West Indies,112,187.0,29,49,4.0,14,,
+batters,6726,T20I,2026,West Indies,16,21.0,2,6,1.0,5,,
+batters,7260,IPL,2023,Rajasthan Royals,36,71.0,9,4,0.0,5,,
+batters,7260,IPL,2024,Rajasthan Royals,20,36.0,6,7,2.0,4,,
+batters,7260,IPL,2025,Rajasthan Royals,36,64.0,9,13,1.0,6,,
+batters,7260,IPL,2026,Rajasthan Royals,18,29.0,2,3,1.0,2,,
+batters,7325,IPL,2022,Punjab Kings,3,1.0,0,2,0.0,1,,
+batters,7325,IPL,2023,Punjab Kings,23,38.0,6,7,2.0,6,,
+batters,7325,IPL,2024,Punjab Kings,35,50.0,7,13,2.0,5,,
+batters,7325,IPL,2025,Punjab Kings,10,11.0,1,5,0.0,2,,
+batters,7344,T20I,2023,Bangladesh,10,9.0,0,4,2.0,2,,
+batters,7344,T20I,2024,Bangladesh,6,8.0,2,4,2.0,3,,
+batters,7344,T20I,2025,Bangladesh,22,28.0,3,9,1.0,6,,
+batters,7344,T20I,2026,Bangladesh,18,13.0,1,10,2.0,3,,
+batters,7364,T20I,2022,Pakistan,15,22.0,3,8,3.0,4,,
+batters,7364,T20I,2023,Pakistan,5,11.0,2,2,1.0,1,,
+batters,7364,T20I,2024,Pakistan,10,8.0,1,6,1.0,3,,
+batters,7364,T20I,2025,Pakistan,30,24.0,2,17,1.0,7,,
+batters,7446,IPL,2022,Sunrisers Hyderabad,1,0.0,0,1,1.0,1,,
+batters,7446,IPL,2023,Sunrisers Hyderabad,46,67.0,8,19,1.0,6,,
+batters,7446,IPL,2024,Sunrisers Hyderabad,32,36.0,4,11,2.0,8,,
+batters,7446,IPL,2025,Lucknow Super Giants,26,42.0,7,11,4.0,6,,
+batters,7446,IPL,2026,Lucknow Super Giants,7,12.0,2,3,0.0,1,,
+batters,7472,IPL,2022,Royal Challengers Bengaluru,47,47.0,5,23,3.0,7,,
+batters,7472,IPL,2023,Royal Challengers Bengaluru,13,10.0,0,5,2.0,4,,
+batters,7472,IPL,2024,Sunrisers Hyderabad,46,63.0,7,14,2.0,7,,
+batters,7472,IPL,2025,Lucknow Super Giants,8,9.0,1,2,1.0,1,,
+batters,7472,IPL,2026,Lucknow Super Giants,7,9.0,1,3,0.0,2,,
+batters,7503,IPL,2023,Lucknow Super Giants,10,10.0,0,4,2.0,4,,
+batters,7503,IPL,2024,Lucknow Super Giants,3,2.0,0,1,1.0,2,,
+batters,7503,IPL,2025,Lucknow Super Giants,4,1.0,0,3,1.0,2,,
+batters,7503,IPL,2026,Rajasthan Royals,2,0.0,0,2,1.0,1,,
+batters,7503,T20I,2022,India,2,8.0,2,0,0.0,1,,
+batters,7503,T20I,2023,India,9,14.0,1,1,2.0,3,,
+batters,7503,T20I,2024,India,11,9.0,1,5,1.0,2,,
+batters,7503,T20I,2025,India,5,9.0,2,2,1.0,2,,
+batters,7503,T20I,2026,India,4,7.0,1,0,0.0,1,,
+batters,7544,IPL,2022,Kolkata Knight Riders,3,3.0,0,0,0.0,1,,
+batters,7544,IPL,2023,Kolkata Knight Riders,11,12.0,2,5,1.0,2,,
+batters,7544,IPL,2024,Kolkata Knight Riders,23,33.0,5,11,3.0,5,,
+batters,7544,IPL,2025,Kolkata Knight Riders,6,8.0,1,1,1.0,1,,
+batters,7544,IPL,2026,Royal Challengers Bengaluru,27,38.0,4,8,1.0,2,,
+batters,7699,T20I,2024,Pakistan,25,33.0,5,14,5.0,9,,
+batters,7699,T20I,2025,Pakistan,28,22.0,3,17,3.0,4,,
+batters,7741,T20I,2022,Ireland,2,4.0,1,1,1.0,1,,
+batters,7741,T20I,2023,Ireland,33,54.0,7,11,1.0,3,,
+batters,7741,T20I,2024,Ireland,43,68.0,10,18,2.0,6,,
+batters,7741,T20I,2025,Ireland,34,53.0,8,16,1.0,3,,
+batters,7741,T20I,2026,Ireland,11,8.0,0,5,1.0,2,,
+batters,7808,IPL,2022,Sunrisers Hyderabad,5,8.0,1,2,0.0,1,,
+batters,7808,IPL,2023,Sunrisers Hyderabad,23,28.0,3,6,2.0,6,,
+batters,7808,IPL,2024,Sunrisers Hyderabad,3,2.0,0,1,1.0,1,,
+batters,7808,IPL,2025,Punjab Kings,19,19.0,1,8,2.0,6,,
+batters,7808,IPL,2026,Punjab Kings,22,25.0,2,8,2.0,5,,
+batters,7808,T20I,2022,South Africa,9,10.0,2,7,1.0,1,,
+batters,7808,T20I,2023,South Africa,7,12.0,2,1,0.0,1,,
+batters,7808,T20I,2024,South Africa,8,12.0,2,4,1.0,1,,
+batters,7808,T20I,2025,South Africa,6,15.0,2,1,1.0,2,,
+batters,7897,IPL,2022,Mumbai Indians,20,34.0,4,7,0.0,3,,
+batters,7897,IPL,2023,Mumbai Indians,28,56.0,9,7,0.0,3,,
+batters,7897,IPL,2024,Mumbai Indians,12,20.0,3,3,2.0,5,,
+batters,7897,IPL,2025,Mumbai Indians,17,33.0,5,3,1.0,4,,
+batters,7897,IPL,2026,Mumbai Indians,22,63.0,12,5,1.0,5,,
+batters,7897,T20I,2023,India,2,7.0,1,0,0.0,1,,
+batters,7897,T20I,2024,India,7,12.0,2,3,0.0,1,,
+batters,7897,T20I,2025,India,21,42.0,5,5,2.0,5,,
+batters,7897,T20I,2026,India,67,126.0,16,14,2.0,9,,
+batters,7903,T20I,2023,Bangladesh,20,25.0,3,8,1.0,1,,
+batters,7903,T20I,2024,Bangladesh,16,34.0,4,2,0.0,1,,
+batters,7903,T20I,2025,Bangladesh,32,50.0,7,13,3.0,7,,
+batters,7903,T20I,2026,Bangladesh,2,5.0,1,0,0.0,1,,
+batters,7905,T20I,2024,Bangladesh,22,21.0,3,11,1.0,3,,
+batters,7905,T20I,2025,Bangladesh,78,89.0,11,36,5.0,11,,
+batters,7967,IPL,2023,Gujarat Titans,5,1.0,0,4,2.0,3,,
+batters,7967,IPL,2024,Gujarat Titans,7,1.0,0,6,1.0,1,,
+batters,7967,IPL,2025,Chennai Super Kings,13,5.0,0,9,3.0,4,,
+batters,7967,IPL,2026,Chennai Super Kings,5,1.0,0,4,1.0,1,,
+batters,7967,T20I,2022,Afghanistan,8,4.0,0,5,0.0,1,,
+batters,7967,T20I,2024,Afghanistan,13,13.0,1,6,2.0,3,,
+batters,7967,T20I,2025,Afghanistan,17,17.0,1,5,1.0,4,,
+batters,7967,T20I,2026,Afghanistan,8,13.0,2,3,2.0,3,,
+batters,8101,IPL,2024,Punjab Kings,61,124.0,18,15,3.0,7,,
+batters,8101,IPL,2025,Delhi Capitals,64,122.0,18,17,5.0,7,,
+batters,8101,IPL,2026,Delhi Capitals,37,86.0,14,10,3.0,7,,
+batters,8182,IPL,2024,Rajasthan Royals,9,6.0,0,4,1.0,2,,
+batters,8182,IPL,2025,Delhi Capitals,3,1.0,0,2,1.0,1,,
+batters,8182,IPL,2026,Rajasthan Royals,33,80.0,13,8,2.0,6,,
+batters,8182,T20I,2023,South Africa,14,15.0,1,5,0.0,2,,
+batters,8182,T20I,2025,South Africa,5,9.0,1,1,1.0,3,,
+batters,8221,IPL,2024,Sunrisers Hyderabad,2,1.0,0,1,1.0,2,,
+batters,8221,IPL,2026,Sunrisers Hyderabad,18,29.0,4,5,1.0,4,,
+batters,8221,T20I,2024,India,1,0.0,0,1,1.0,1,,
+batters,8221,T20I,2026,India,41,67.0,7,8,3.0,6,,
+batters,8295,T20I,2023,West Indies,5,3.0,0,3,1.0,1,,
+batters,8295,T20I,2024,West Indies,10,16.0,3,3,0.0,2,,
+batters,8295,T20I,2025,West Indies,31,53.0,7,12,3.0,5,,
+batters,8295,T20I,2026,West Indies,32,48.0,7,12,4.0,5,,
+batters,8380,T20I,2023,Bangladesh,11,8.0,0,3,1.0,1,,
+batters,8380,T20I,2024,Bangladesh,44,58.0,8,23,3.0,6,,
+batters,8380,T20I,2025,Bangladesh,38,37.0,4,17,7.0,12,,
+batters,8380,T20I,2026,Bangladesh,10,7.0,0,4,2.0,3,,
+batters,19316,IPL,2022,Chennai Super Kings,3,0.0,0,3,1.0,1,,
+batters,19316,IPL,2025,Rajasthan Royals,15,6.0,0,9,1.0,4,,
+batters,19316,T20I,2022,Sri Lanka,8,5.0,0,4,1.0,3,,
+batters,19316,T20I,2023,Sri Lanka,10,1.0,0,9,2.0,3,,
+batters,19316,T20I,2024,Sri Lanka,15,10.0,1,9,5.0,7,,
+batters,19316,T20I,2025,Sri Lanka,39,21.0,0,19,3.0,6,,
+batters,19316,T20I,2026,Sri Lanka,22,9.0,1,16,5.0,7,,
+batters,20005,IPL,2023,Mumbai Indians,11,16.0,1,2,1.0,2,,
+batters,20005,IPL,2024,Lucknow Super Giants,44,73.0,10,16,1.0,3,,
+batters,20005,IPL,2025,Gujarat Titans,1,1.0,0,0,0.0,1,,
+batters,20005,IPL,2026,Gujarat Titans,5,8.0,1,1,0.0,1,,
+batters,20006,IPL,2022,Mumbai Indians,7,3.0,0,5,0.0,2,,
+batters,20006,IPL,2024,Kolkata Knight Riders,27,65.0,9,7,2.0,7,,
+batters,20006,IPL,2025,Kolkata Knight Riders,24,30.0,3,8,2.0,4,,
+batters,20006,IPL,2026,Kolkata Knight Riders,34,46.0,6,12,2.0,5,,
+batters,20006,T20I,2024,India,6,15.0,2,0,0.0,1,,
+batters,20702,IPL,2022,Mumbai Indians,2,2.0,0,0,0.0,1,,
+batters,20702,IPL,2023,Mumbai Indians,5,7.0,1,2,1.0,1,,
+batters,20702,IPL,2024,Delhi Capitals,38,79.0,11,6,1.0,7,,
+batters,20702,IPL,2025,Delhi Capitals,25,50.0,9,8,2.0,7,,
+batters,20702,IPL,2026,Delhi Capitals,44,61.0,6,13,1.0,7,,
+batters,20702,T20I,2022,South Africa,27,69.0,10,3,1.0,3,,
+batters,20702,T20I,2023,South Africa,1,0.0,0,1,1.0,1,,
+batters,20702,T20I,2024,South Africa,14,27.0,5,3,0.0,3,,
+batters,20702,T20I,2025,South Africa,5,5.0,0,2,0.0,1,,
+batters,20702,T20I,2026,South Africa,5,10.0,1,1,0.0,1,,
+batters,21781,T20I,2023,Zimbabwe,13,14.0,1,4,0.0,3,,
+batters,21781,T20I,2024,Zimbabwe,76,76.0,8,39,8.0,10,,
+batters,21781,T20I,2025,Zimbabwe,5,4.0,0,2,1.0,1,,
+batters,21781,T20I,2026,Zimbabwe,2,1.0,0,1,1.0,2,,
+batters,21784,T20I,2022,Zimbabwe,4,5.0,0,1,0.0,1,,
+batters,21784,T20I,2023,Zimbabwe,5,5.0,0,2,0.0,1,,
+batters,21784,T20I,2025,Zimbabwe,48,45.0,4,22,7.0,8,,
+batters,21784,T20I,2026,Zimbabwe,28,35.0,5,15,2.0,5,,
+batters,21790,T20I,2024,Zimbabwe,17,22.0,3,5,1.0,4,,
+batters,21790,T20I,2025,Zimbabwe,39,61.0,8,13,6.0,9,,
+batters,21790,T20I,2026,Zimbabwe,12,10.0,0,4,1.0,1,,
+batters,22134,T20I,2022,Zimbabwe,12,17.0,2,4,2.0,3,,
+batters,22134,T20I,2023,Zimbabwe,5,6.0,1,2,0.0,1,,
+batters,22134,T20I,2024,Zimbabwe,35,36.0,4,15,3.0,7,,
+batters,25139,IPL,2024,Rajasthan Royals,4,10.0,2,2,1.0,1,,
+batters,25139,IPL,2025,Rajasthan Royals,29,35.0,5,14,2.0,6,,
+batters,25139,IPL,2026,Rajasthan Royals,31,35.0,4,10,0.0,6,,
+batters,29066,T20I,2024,New Zealand,23,34.0,2,7,2.0,3,,
+batters,29066,T20I,2025,New Zealand,12,12.0,2,7,1.0,3,,
+batters,29066,T20I,2026,New Zealand,15,24.0,4,8,2.0,3,,
+batters,29888,IPL,2022,Kolkata Knight Riders,2,2.0,0,1,1.0,2,,
+batters,29888,IPL,2023,Kolkata Knight Riders,1,0.0,0,1,1.0,1,,
+batters,29888,IPL,2025,Kolkata Knight Riders,20,14.0,2,14,2.0,4,,
+batters,29888,T20I,2025,India,8,13.0,1,3,0.0,1,,
+batters,29888,T20I,2026,India,35,27.0,3,22,4.0,6,,
+batters,37052,IPL,2024,Mumbai Indians,5,7.0,1,2,0.0,1,,
+batters,37052,IPL,2025,Mumbai Indians,39,80.0,10,8,2.0,9,,
+batters,37052,IPL,2026,Mumbai Indians,7,15.0,2,2,0.0,2,,
+batters,37052,T20I,2026,India,41,80.0,12,10,3.0,5,,
+batters,38855,T20I,2022,Bangladesh,1,1.0,0,0,0.0,1,,
+batters,38855,T20I,2024,Bangladesh,4,6.0,0,0,0.0,1,,
+batters,38855,T20I,2025,Bangladesh,42,45.0,6,20,1.0,4,,
+batters,38855,T20I,2026,Bangladesh,10,4.0,0,6,3.0,4,,
+batters,45966,IPL,2026,Chennai Super Kings,53,72.0,11,21,2.0,5,,
+batters,47370,IPL,2025,Sunrisers Hyderabad,31,53.0,7,11,3.0,5,,
+batters,47370,IPL,2026,Sunrisers Hyderabad,25,44.0,7,9,1.0,3,,
+bowlers,23,IPL,2023,Mumbai Indians,39,,6,14,,8,1.0,52.0
+bowlers,23,IPL,2024,Mumbai Indians,38,,7,10,,5,2.0,66.0
+bowlers,152,IPL,2022,Chennai Super Kings,14,,4,3,,3,0.0,26.0
+bowlers,152,IPL,2023,Chennai Super Kings,31,,6,6,,6,1.0,54.0
+bowlers,152,IPL,2024,Chennai Super Kings,23,,4,6,,4,0.0,34.0
+bowlers,152,IPL,2025,Chennai Super Kings,16,,1,5,,6,0.0,15.0
+bowlers,152,IPL,2026,Rajasthan Royals,43,,6,9,,7,2.0,64.0
+bowlers,152,T20I,2022,India,6,,1,2,,1,0.0,10.0
+bowlers,152,T20I,2023,India,10,,1,2,,1,0.0,12.0
+bowlers,161,IPL,2022,Chennai Super Kings,54,,11,16,,6,5.0,84.0
+bowlers,278,IPL,2022,Kolkata Knight Riders,29,,5,10,,5,5.0,47.0
+bowlers,278,IPL,2023,Kolkata Knight Riders,8,,1,3,,2,1.0,13.0
+bowlers,278,T20I,2022,New Zealand,18,,3,7,,3,4.0,24.0
+bowlers,278,T20I,2023,New Zealand,16,,6,5,,3,0.0,38.0
+bowlers,278,T20I,2024,New Zealand,25,,3,10,,4,1.0,36.0
+bowlers,295,IPL,2023,Royal Challengers Bengaluru,19,,6,2,,4,1.0,46.0
+bowlers,295,T20I,2022,South Africa,34,,11,7,,5,0.0,74.0
+bowlers,295,T20I,2023,South Africa,10,,0,2,,1,1.0,11.0
+bowlers,305,IPL,2022,Rajasthan Royals,73,,13,27,,10,5.0,108.0
+bowlers,305,IPL,2023,Rajasthan Royals,32,,5,8,,8,2.0,48.0
+bowlers,305,IPL,2024,Rajasthan Royals,47,,6,13,,8,2.0,66.0
+bowlers,305,IPL,2025,Chennai Super Kings,14,,2,3,,3,1.0,20.0
+bowlers,305,T20I,2022,India,17,,1,6,,2,1.0,15.0
+bowlers,360,IPL,2022,Sunrisers Hyderabad,82,,12,29,,11,5.0,108.0
+bowlers,360,IPL,2023,Sunrisers Hyderabad,69,,15,22,,8,5.0,107.0
+bowlers,360,IPL,2024,Sunrisers Hyderabad,51,,10,9,,9,0.0,88.0
+bowlers,360,IPL,2025,Royal Challengers Bengaluru,74,,20,24,,9,5.0,130.0
+bowlers,360,IPL,2026,Royal Challengers Bengaluru,60,,11,12,,8,3.0,99.0
+bowlers,360,T20I,2022,India,80,,23,22,,11,4.0,155.0
+bowlers,360,T20I,2026,India,30,,8,3,,4,0.0,69.0
+bowlers,403,IPL,2022,Kolkata Knight Riders,12,,6,1,,4,0.0,34.0
+bowlers,403,IPL,2023,Kolkata Knight Riders,23,,7,4,,7,0.0,53.0
+bowlers,403,IPL,2024,Gujarat Titans,14,,3,2,,4,2.0,28.0
+bowlers,403,T20I,2022,India,8,,3,4,,2,1.0,13.0
+bowlers,479,IPL,2023,Sunrisers Hyderabad,4,,0,2,,1,0.0,3.0
+bowlers,479,T20I,2022,England,46,,9,9,,9,1.0,81.0
+bowlers,479,T20I,2023,England,21,,5,6,,4,1.0,40.0
+bowlers,479,T20I,2024,England,13,,0,7,,5,1.0,7.0
+bowlers,479,T20I,2025,England,45,,11,10,,7,2.0,94.0
+bowlers,479,T20I,2026,England,8,,2,3,,3,0.0,15.0
+bowlers,781,IPL,2022,Kolkata Knight Riders,59,,2,19,,8,2.0,51.0
+bowlers,781,IPL,2023,Kolkata Knight Riders,22,,6,9,,5,2.0,40.0
+bowlers,781,IPL,2024,Kolkata Knight Riders,49,,10,19,,5,4.0,76.0
+bowlers,781,IPL,2025,Kolkata Knight Riders,53,,8,14,,7,3.0,88.0
+bowlers,781,IPL,2026,Kolkata Knight Riders,57,,8,25,,9,4.0,68.0
+bowlers,786,IPL,2022,Chennai Super Kings,4,,2,0,,2,0.0,16.0
+bowlers,786,IPL,2023,Mumbai Indians,39,,13,13,,4,2.0,74.0
+bowlers,786,T20I,2022,England,54,,12,17,,8,4.0,93.0
+bowlers,786,T20I,2023,England,20,,3,6,,2,0.0,28.0
+bowlers,786,T20I,2024,England,5,,0,0,,1,0.0,6.0
+bowlers,818,IPL,2022,Delhi Capitals,18,,5,5,,2,2.0,34.0
+bowlers,818,IPL,2023,Delhi Capitals,18,,1,6,,2,3.0,18.0
+bowlers,818,IPL,2024,Delhi Capitals,23,,7,4,,2,1.0,55.0
+bowlers,818,T20I,2024,Australia,7,,0,5,,1,1.0,4.0
+bowlers,829,IPL,2024,Kolkata Knight Riders,27,,6,13,,4,3.0,40.0
+bowlers,829,IPL,2025,Delhi Capitals,57,,16,17,,8,5.0,104.0
+bowlers,829,IPL,2026,Delhi Capitals,32,,9,13,,4,6.0,56.0
+bowlers,829,T20I,2022,Australia,5,,0,1,,2,0.0,9.0
+bowlers,829,T20I,2024,Australia,7,,1,0,,1,0.0,12.0
+bowlers,830,IPL,2022,Royal Challengers Bengaluru,33,,10,6,,4,0.0,77.0
+bowlers,830,IPL,2023,Royal Challengers Bengaluru,14,,3,9,,2,1.0,17.0
+bowlers,830,IPL,2025,Royal Challengers Bengaluru,37,,10,19,,6,6.0,55.0
+bowlers,830,IPL,2026,Royal Challengers Bengaluru,48,,18,17,,7,4.0,102.0
+bowlers,830,T20I,2022,Australia,20,,6,5,,5,1.0,41.0
+bowlers,830,T20I,2024,Australia,16,,2,9,,3,1.0,15.0
+bowlers,830,T20I,2025,Australia,15,,4,6,,2,2.0,24.0
+bowlers,838,IPL,2022,Royal Challengers Bengaluru,14,,2,9,,5,0.0,13.0
+bowlers,838,IPL,2023,Royal Challengers Bengaluru,16,,3,5,,2,1.0,25.0
+bowlers,838,IPL,2024,Royal Challengers Bengaluru,12,,4,3,,2,1.0,25.0
+bowlers,838,IPL,2025,Punjab Kings,22,,4,6,,3,0.0,36.0
+bowlers,838,T20I,2022,Australia,11,,0,0,,3,0.0,15.0
+bowlers,838,T20I,2023,Australia,10,,7,0,,2,0.0,44.0
+bowlers,838,T20I,2024,Australia,3,,1,1,,1,0.0,6.0
+bowlers,838,T20I,2025,Australia,13,,2,1,,4,0.0,24.0
+bowlers,1071,IPL,2022,Mumbai Indians,26,,5,7,,4,3.0,38.0
+bowlers,1071,IPL,2023,Lucknow Super Giants,6,,4,0,,1,0.0,23.0
+bowlers,1071,IPL,2024,Sunrisers Hyderabad,38,,4,9,,7,2.0,52.0
+bowlers,1071,IPL,2025,Sunrisers Hyderabad,22,,5,6,,3,3.0,36.0
+bowlers,1071,IPL,2026,Sunrisers Hyderabad,19,,5,8,,3,1.0,32.0
+bowlers,1107,IPL,2024,Mumbai Indians,15,,3,4,,3,0.0,24.0
+bowlers,1107,T20I,2022,Afghanistan,16,,3,1,,3,0.0,28.0
+bowlers,1107,T20I,2024,Afghanistan,12,,0,4,,2,2.0,11.0
+bowlers,1107,T20I,2025,Afghanistan,13,,1,5,,4,1.0,14.0
+bowlers,1107,T20I,2026,Afghanistan,7,,6,0,,2,0.0,35.0
+bowlers,1219,IPL,2022,Royal Challengers Bengaluru,3,,1,2,,1,0.0,4.0
+bowlers,1219,IPL,2023,Royal Challengers Bengaluru,21,,3,6,,4,0.0,29.0
+bowlers,1219,T20I,2022,England,29,,4,8,,4,4.0,38.0
+bowlers,1318,IPL,2022,Kolkata Knight Riders,48,,18,12,,9,4.0,104.0
+bowlers,1318,IPL,2023,Kolkata Knight Riders,20,,3,6,,4,2.0,34.0
+bowlers,1318,IPL,2024,Kolkata Knight Riders,21,,4,7,,4,3.0,39.0
+bowlers,1318,IPL,2025,Kolkata Knight Riders,46,,18,12,,5,3.0,103.0
+bowlers,1318,T20I,2023,West Indies,25,,6,5,,4,2.0,52.0
+bowlers,1318,T20I,2024,West Indies,18,,7,6,,3,2.0,40.0
+bowlers,1318,T20I,2025,West Indies,2,,1,1,,1,0.0,6.0
+bowlers,1389,IPL,2022,Sunrisers Hyderabad,3,,1,1,,1,0.0,5.0
+bowlers,1389,T20I,2022,Australia,5,,1,2,,1,0.0,7.0
+bowlers,1389,T20I,2023,Australia,29,,9,12,,4,2.0,61.0
+bowlers,1389,T20I,2024,Australia,25,,6,11,,5,3.0,40.0
+bowlers,1389,T20I,2025,Australia,36,,6,15,,5,2.0,52.0
+bowlers,1389,T20I,2026,Australia,9,,2,2,,1,0.0,16.0
+bowlers,1487,IPL,2026,Rajasthan Royals,9,,1,2,,1,0.0,14.0
+bowlers,1487,T20I,2022,New Zealand,8,,2,0,,2,0.0,20.0
+bowlers,1487,T20I,2023,New Zealand,33,,6,9,,5,1.0,56.0
+bowlers,1487,T20I,2024,New Zealand,10,,3,5,,3,0.0,21.0
+bowlers,1487,T20I,2026,New Zealand,21,,9,9,,3,2.0,52.0
+bowlers,1566,IPL,2022,Gujarat Titans,31,,9,11,,7,2.0,57.0
+bowlers,1566,IPL,2023,Gujarat Titans,48,,13,10,,10,4.0,94.0
+bowlers,1566,IPL,2025,Sunrisers Hyderabad,19,,9,4,,3,0.0,56.0
+bowlers,1566,IPL,2026,Lucknow Super Giants,55,,12,13,,7,2.0,100.0
+bowlers,1612,IPL,2022,Rajasthan Royals,95,,14,26,,11,7.0,132.0
+bowlers,1612,IPL,2023,Rajasthan Royals,40,,12,10,,8,4.0,80.0
+bowlers,1612,IPL,2024,Rajasthan Royals,59,,16,13,,11,3.0,126.0
+bowlers,1612,IPL,2025,Punjab Kings,29,,8,9,,5,4.0,53.0
+bowlers,1612,IPL,2026,Punjab Kings,42,,5,10,,8,4.0,61.0
+bowlers,1612,T20I,2022,India,38,,10,13,,8,2.0,62.0
+bowlers,1612,T20I,2023,India,11,,2,5,,3,1.0,17.0
+bowlers,1758,IPL,2022,Kolkata Knight Riders,36,,10,5,,4,2.0,83.0
+bowlers,1758,IPL,2024,Sunrisers Hyderabad,80,,22,16,,8,5.0,146.0
+bowlers,1758,IPL,2025,Sunrisers Hyderabad,33,,10,8,,5,1.0,64.0
+bowlers,1758,IPL,2026,Sunrisers Hyderabad,30,,6,9,,6,1.0,46.0
+bowlers,1758,T20I,2022,Australia,51,,9,18,,7,1.0,78.0
+bowlers,1758,T20I,2024,Australia,14,,2,3,,1,1.0,24.0
+bowlers,1813,IPL,2023,Chennai Super Kings,21,,6,5,,3,1.0,39.0
+bowlers,1813,IPL,2024,Chennai Super Kings,9,,1,5,,4,1.0,10.0
+bowlers,1813,IPL,2025,Mumbai Indians,16,,2,5,,6,0.0,25.0
+bowlers,1813,IPL,2026,Mumbai Indians,22,,5,4,,4,1.0,46.0
+bowlers,1813,T20I,2022,India,12,,5,2,,1,1.0,37.0
+bowlers,1813,T20I,2023,India,2,,2,0,,1,0.0,8.0
+bowlers,1944,T20I,2022,South Africa,31,,8,13,,5,4.0,47.0
+bowlers,1944,T20I,2023,South Africa,8,,2,3,,2,0.0,16.0
+bowlers,1944,T20I,2024,South Africa,15,,4,5,,2,1.0,26.0
+bowlers,1944,T20I,2026,South Africa,10,,3,2,,3,1.0,22.0
+bowlers,2054,IPL,2023,Mumbai Indians,51,,14,15,,9,5.0,104.0
+bowlers,2054,T20I,2023,Australia,12,,2,4,,2,2.0,16.0
+bowlers,2054,T20I,2024,Australia,12,,2,3,,2,0.0,19.0
+bowlers,2261,IPL,2022,Royal Challengers Bengaluru,47,,6,23,,9,6.0,54.0
+bowlers,2261,IPL,2023,Royal Challengers Bengaluru,85,,21,26,,9,6.0,159.0
+bowlers,2261,IPL,2024,Punjab Kings,86,,21,24,,11,10.0,167.0
+bowlers,2261,IPL,2025,Sunrisers Hyderabad,69,,18,20,,7,7.0,118.0
+bowlers,2261,IPL,2026,Sunrisers Hyderabad,11,,7,1,,2,0.0,38.0
+bowlers,2261,T20I,2022,India,92,,24,33,,11,5.0,173.0
+bowlers,2261,T20I,2023,India,4,,0,1,,1,0.0,3.0
+bowlers,2304,IPL,2022,Mumbai Indians,22,,9,5,,4,1.0,53.0
+bowlers,2304,T20I,2022,England,17,,6,7,,3,1.0,32.0
+bowlers,2304,T20I,2023,England,20,,7,7,,2,2.0,42.0
+bowlers,2315,IPL,2024,Royal Challengers Bengaluru,23,,9,5,,3,2.0,56.0
+bowlers,2315,IPL,2025,Mumbai Indians,4,,0,2,,1,0.0,2.0
+bowlers,2315,T20I,2022,England,71,,10,21,,10,7.0,107.0
+bowlers,2315,T20I,2023,England,6,,3,1,,1,0.0,18.0
+bowlers,2315,T20I,2024,England,4,,2,2,,2,1.0,10.0
+bowlers,2320,IPL,2022,Rajasthan Royals,43,,15,10,,9,1.0,90.0
+bowlers,2320,IPL,2023,Rajasthan Royals,22,,4,4,,5,0.0,42.0
+bowlers,2320,IPL,2024,Rajasthan Royals,44,,9,17,,12,4.0,60.0
+bowlers,2320,IPL,2025,Mumbai Indians,62,,16,16,,10,4.0,115.0
+bowlers,2320,IPL,2026,Mumbai Indians,36,,8,5,,4,2.0,70.0
+bowlers,2320,T20I,2022,New Zealand,7,,0,3,,1,0.0,5.0
+bowlers,2334,IPL,2022,Chennai Super Kings,19,,7,2,,3,1.0,50.0
+bowlers,2334,T20I,2022,South Africa,32,,11,9,,6,2.0,73.0
+bowlers,2382,IPL,2026,Chennai Super Kings,18,,6,6,,3,1.0,41.0
+bowlers,2382,T20I,2024,England,2,,0,2,,1,0.0,0.0
+bowlers,2382,T20I,2025,England,33,,13,7,,5,4.0,88.0
+bowlers,2382,T20I,2026,England,6,,0,1,,1,0.0,6.0
+bowlers,2399,IPL,2022,Lucknow Super Giants,44,,11,12,,8,1.0,77.0
+bowlers,2399,IPL,2024,Kolkata Knight Riders,2,,1,1,,1,0.0,6.0
+bowlers,2399,IPL,2025,Delhi Capitals,27,,10,6,,5,2.0,63.0
+bowlers,2399,T20I,2022,Sri Lanka,18,,4,4,,4,1.0,34.0
+bowlers,2399,T20I,2024,Sri Lanka,17,,3,7,,2,3.0,25.0
+bowlers,2399,T20I,2025,Sri Lanka,43,,3,17,,9,3.0,43.0
+bowlers,2399,T20I,2026,Sri Lanka,12,,4,3,,2,2.0,30.0
+bowlers,2411,IPL,2022,Punjab Kings,23,,7,7,,4,1.0,40.0
+bowlers,2411,IPL,2023,Rajasthan Royals,29,,5,5,,8,2.0,47.0
+bowlers,2411,IPL,2024,Rajasthan Royals,29,,9,8,,5,1.0,61.0
+bowlers,2411,IPL,2025,Rajasthan Royals,80,,21,18,,7,4.0,166.0
+bowlers,2411,IPL,2026,Rajasthan Royals,28,,7,6,,3,1.0,58.0
+bowlers,2417,IPL,2023,Sunrisers Hyderabad,5,,1,1,,1,0.0,7.0
+bowlers,2417,IPL,2026,Chennai Super Kings,21,,3,9,,5,1.0,25.0
+bowlers,2417,T20I,2022,West Indies,16,,2,6,,3,2.0,18.0
+bowlers,2417,T20I,2023,West Indies,22,,6,4,,5,2.0,43.0
+bowlers,2417,T20I,2024,West Indies,34,,8,9,,8,1.0,65.0
+bowlers,2417,T20I,2025,West Indies,47,,13,15,,8,3.0,98.0
+bowlers,2417,T20I,2026,West Indies,27,,6,6,,4,1.0,45.0
+bowlers,2490,T20I,2022,Pakistan,19,,4,6,,6,4.0,28.0
+bowlers,2490,T20I,2024,Pakistan,24,,5,6,,2,1.0,41.0
+bowlers,2490,T20I,2025,Pakistan,13,,3,3,,3,0.0,22.0
+bowlers,2490,T20I,2026,Pakistan,2,,0,1,,1,0.0,1.0
+bowlers,2526,T20I,2022,New Zealand,20,,5,5,,4,1.0,40.0
+bowlers,2526,T20I,2023,New Zealand,32,,7,10,,6,3.0,50.0
+bowlers,2526,T20I,2024,New Zealand,26,,4,9,,4,1.0,38.0
+bowlers,2526,T20I,2025,New Zealand,8,,4,1,,2,0.0,19.0
+bowlers,2526,T20I,2026,New Zealand,28,,12,4,,5,3.0,76.0
+bowlers,2633,IPL,2022,Lucknow Super Giants,54,,10,14,,9,2.0,87.0
+bowlers,2633,IPL,2023,Rajasthan Royals,28,,8,7,,3,1.0,52.0
+bowlers,2633,IPL,2026,Gujarat Titans,41,,3,16,,7,1.0,43.0
+bowlers,2633,T20I,2022,West Indies,60,,16,20,,8,3.0,120.0
+bowlers,2633,T20I,2023,West Indies,76,,18,20,,7,4.0,136.0
+bowlers,2633,T20I,2024,West Indies,7,,2,1,,2,0.0,16.0
+bowlers,2633,T20I,2025,West Indies,102,,16,32,,17,6.0,148.0
+bowlers,2633,T20I,2026,West Indies,20,,3,5,,3,1.0,31.0
+bowlers,2636,IPL,2023,Rajasthan Royals,12,,2,5,,3,3.0,15.0
+bowlers,2636,IPL,2025,Sunrisers Hyderabad,5,,2,1,,1,0.0,13.0
+bowlers,2636,T20I,2022,Australia,34,,6,12,,7,5.0,46.0
+bowlers,2636,T20I,2023,Australia,12,,3,4,,1,0.0,20.0
+bowlers,2636,T20I,2024,Australia,36,,14,8,,7,0.0,89.0
+bowlers,2636,T20I,2025,Australia,63,,15,17,,7,3.0,110.0
+bowlers,2636,T20I,2026,Australia,7,,0,3,,2,0.0,4.0
+bowlers,2639,IPL,2022,Lucknow Super Giants,8,,0,5,,3,3.0,5.0
+bowlers,2639,IPL,2023,Lucknow Super Giants,14,,3,3,,3,1.0,26.0
+bowlers,2639,IPL,2024,Lucknow Super Giants,18,,5,5,,4,1.0,36.0
+bowlers,2639,IPL,2025,Punjab Kings,20,,9,3,,4,0.0,57.0
+bowlers,2639,IPL,2026,Punjab Kings,15,,4,4,,3,1.0,32.0
+bowlers,2639,T20I,2022,Australia,11,,2,3,,2,2.0,18.0
+bowlers,2639,T20I,2023,Australia,17,,5,6,,2,1.0,32.0
+bowlers,2639,T20I,2024,Australia,9,,3,2,,3,0.0,20.0
+bowlers,2639,T20I,2025,Australia,3,,0,0,,1,0.0,7.0
+bowlers,2681,T20I,2022,Bangladesh,33,,7,5,,6,1.0,68.0
+bowlers,2681,T20I,2023,Bangladesh,11,,2,3,,2,1.0,14.0
+bowlers,2681,T20I,2024,Bangladesh,41,,7,16,,7,3.0,68.0
+bowlers,2681,T20I,2025,Bangladesh,24,,6,9,,7,4.0,37.0
+bowlers,2687,T20I,2022,West Indies,2,,0,2,,1,0.0,0.0
+bowlers,2687,T20I,2023,West Indies,10,,3,2,,2,0.0,17.0
+bowlers,2687,T20I,2024,West Indies,29,,5,14,,4,2.0,38.0
+bowlers,2687,T20I,2025,West Indies,39,,9,10,,5,4.0,77.0
+bowlers,2687,T20I,2026,West Indies,17,,3,6,,3,1.0,25.0
+bowlers,2847,IPL,2022,Delhi Capitals,71,,20,19,,11,2.0,148.0
+bowlers,2847,IPL,2023,Kolkata Knight Riders,19,,7,6,,5,2.0,44.0
+bowlers,2847,IPL,2024,Chennai Super Kings,52,,11,13,,5,2.0,92.0
+bowlers,2847,IPL,2025,Lucknow Super Giants,32,,7,12,,6,4.0,65.0
+bowlers,2847,IPL,2026,Mumbai Indians,38,,11,9,,6,4.0,86.0
+bowlers,2847,T20I,2022,India,5,,1,3,,1,1.0,5.0
+bowlers,2876,IPL,2022,Delhi Capitals,21,,4,6,,5,1.0,34.0
+bowlers,2876,IPL,2023,Delhi Capitals,7,,0,1,,2,0.0,6.0
+bowlers,2876,IPL,2024,Delhi Capitals,22,,4,8,,5,2.0,29.0
+bowlers,2876,IPL,2025,Delhi Capitals,40,,7,13,,6,0.0,56.0
+bowlers,2876,IPL,2026,Delhi Capitals,32,,6,5,,7,1.0,52.0
+bowlers,2876,T20I,2022,India,31,,6,11,,6,4.0,44.0
+bowlers,2876,T20I,2023,India,13,,1,5,,3,0.0,13.0
+bowlers,2876,T20I,2024,India,12,,1,5,,2,2.0,10.0
+bowlers,2876,T20I,2025,India,15,,2,5,,3,0.0,18.0
+bowlers,2876,T20I,2026,India,73,,18,16,,13,4.0,143.0
+bowlers,2878,IPL,2023,Gujarat Titans,37,,11,7,,6,3.0,76.0
+bowlers,2878,IPL,2024,Gujarat Titans,88,,26,18,,8,4.0,199.0
+bowlers,2878,IPL,2025,Delhi Capitals,47,,11,6,,5,0.0,94.0
+bowlers,2933,IPL,2022,Mumbai Indians,79,,8,20,,11,3.0,96.0
+bowlers,2933,IPL,2024,Mumbai Indians,47,,4,12,,7,3.0,55.0
+bowlers,2933,IPL,2025,Mumbai Indians,86,,15,36,,10,7.0,112.0
+bowlers,2933,IPL,2026,Mumbai Indians,103,,21,34,,11,1.0,160.0
+bowlers,2933,T20I,2022,India,9,,2,1,,2,0.0,19.0
+bowlers,2933,T20I,2025,India,27,,2,9,,5,1.0,35.0
+bowlers,2933,T20I,2026,India,15,,2,7,,4,1.0,16.0
+bowlers,2984,IPL,2023,Punjab Kings,4,,0,3,,2,2.0,1.0
+bowlers,2984,IPL,2024,Punjab Kings,2,,1,0,,1,0.0,5.0
+bowlers,2984,T20I,2024,Zimbabwe,8,,3,2,,2,0.0,17.0
+bowlers,2984,T20I,2025,Zimbabwe,29,,3,11,,4,3.0,36.0
+bowlers,2984,T20I,2026,Zimbabwe,33,,8,7,,4,2.0,62.0
+bowlers,3174,IPL,2026,Chennai Super Kings,24,,8,7,,2,2.0,52.0
+bowlers,3174,T20I,2023,New Zealand,15,,4,6,,4,0.0,29.0
+bowlers,3174,T20I,2024,New Zealand,10,,1,6,,3,2.0,8.0
+bowlers,3174,T20I,2025,New Zealand,28,,11,7,,3,1.0,69.0
+bowlers,3174,T20I,2026,New Zealand,15,,7,3,,2,0.0,42.0
+bowlers,3275,IPL,2022,Gujarat Titans,34,,6,16,,5,3.0,40.0
+bowlers,3275,IPL,2023,Gujarat Titans,30,,7,9,,3,2.0,54.0
+bowlers,3275,IPL,2024,Royal Challengers Bengaluru,6,,1,2,,1,0.0,8.0
+bowlers,3275,T20I,2022,West Indies,9,,0,3,,2,0.0,7.0
+bowlers,3275,T20I,2023,West Indies,18,,2,9,,4,2.0,17.0
+bowlers,3275,T20I,2024,West Indies,57,,10,19,,6,2.0,88.0
+bowlers,3275,T20I,2025,West Indies,40,,15,12,,4,3.0,98.0
+bowlers,3276,T20I,2023,West Indies,31,,7,9,,3,1.0,55.0
+bowlers,3276,T20I,2024,West Indies,21,,6,8,,6,1.0,43.0
+bowlers,3276,T20I,2025,West Indies,47,,13,8,,6,1.0,104.0
+bowlers,3276,T20I,2026,West Indies,27,,6,6,,5,0.0,48.0
+bowlers,3298,IPL,2023,Mumbai Indians,33,,10,11,,3,2.0,67.0
+bowlers,3298,IPL,2025,Rajasthan Royals,89,,27,24,,10,5.0,182.0
+bowlers,3298,IPL,2026,Rajasthan Royals,104,,24,34,,11,7.0,166.0
+bowlers,3298,T20I,2023,England,6,,2,1,,1,0.0,14.0
+bowlers,3298,T20I,2024,England,15,,5,3,,2,0.0,30.0
+bowlers,3298,T20I,2025,England,4,,1,0,,1,0.0,7.0
+bowlers,3298,T20I,2026,England,15,,1,8,,3,3.0,11.0
+bowlers,3323,T20I,2022,New Zealand,6,,3,2,,1,0.0,18.0
+bowlers,3323,T20I,2023,New Zealand,41,,14,6,,6,0.0,95.0
+bowlers,3323,T20I,2024,New Zealand,12,,3,4,,2,1.0,21.0
+bowlers,3323,T20I,2025,New Zealand,16,,2,6,,5,3.0,21.0
+bowlers,3323,T20I,2026,New Zealand,4,,1,0,,2,0.0,7.0
+bowlers,3330,IPL,2022,Gujarat Titans,21,,9,5,,3,1.0,51.0
+bowlers,3330,IPL,2023,Gujarat Titans,6,,3,2,,1,0.0,15.0
+bowlers,3330,IPL,2024,Mumbai Indians,28,,10,8,,7,2.0,69.0
+bowlers,3330,IPL,2025,Mumbai Indians,58,,17,13,,8,4.0,124.0
+bowlers,3330,IPL,2026,Mumbai Indians,44,,11,13,,4,2.0,82.0
+bowlers,3330,T20I,2022,India,49,,10,19,,7,0.0,69.0
+bowlers,3330,T20I,2023,India,4,,1,0,,1,0.0,7.0
+bowlers,3330,T20I,2024,India,23,,3,8,,2,1.0,34.0
+bowlers,3330,T20I,2025,India,19,,5,4,,5,0.0,40.0
+bowlers,3330,T20I,2026,India,5,,2,3,,1,0.0,8.0
+bowlers,3605,IPL,2022,Sunrisers Hyderabad,9,,2,1,,1,0.0,18.0
+bowlers,3605,IPL,2023,Sunrisers Hyderabad,1,,0,0,,1,0.0,1.0
+bowlers,3605,IPL,2025,Lucknow Super Giants,5,,1,0,,2,0.0,9.0
+bowlers,3605,IPL,2026,Lucknow Super Giants,7,,6,0,,2,0.0,40.0
+bowlers,3605,T20I,2022,South Africa,1,,0,0,,1,0.0,1.0
+bowlers,3605,T20I,2023,South Africa,15,,4,3,,3,0.0,32.0
+bowlers,3605,T20I,2024,South Africa,12,,8,2,,2,0.0,43.0
+bowlers,3605,T20I,2025,South Africa,6,,1,1,,2,1.0,10.0
+bowlers,3605,T20I,2026,South Africa,6,,3,1,,1,0.0,18.0
+bowlers,3628,IPL,2022,Punjab Kings,49,,7,21,,7,5.0,60.0
+bowlers,3628,IPL,2023,Punjab Kings,50,,13,21,,6,3.0,93.0
+bowlers,3628,IPL,2024,Punjab Kings,32,,12,5,,5,1.0,77.0
+bowlers,3628,IPL,2025,Gujarat Titans,26,,6,7,,4,0.0,51.0
+bowlers,3628,IPL,2026,Gujarat Titans,52,,11,18,,11,6.0,83.0
+bowlers,3628,T20I,2022,South Africa,32,,11,11,,4,0.0,71.0
+bowlers,3628,T20I,2023,South Africa,16,,6,6,,2,1.0,37.0
+bowlers,3628,T20I,2025,South Africa,19,,9,2,,2,0.0,64.0
+bowlers,3628,T20I,2026,South Africa,11,,2,2,,1,0.0,20.0
+bowlers,3629,IPL,2025,Mumbai Indians,3,,0,1,,1,0.0,2.0
+bowlers,3629,IPL,2026,Mumbai Indians,24,,8,4,,5,2.0,59.0
+bowlers,3629,T20I,2025,South Africa,18,,5,8,,3,2.0,33.0
+bowlers,3629,T20I,2026,South Africa,11,,2,4,,2,0.0,16.0
+bowlers,3644,IPL,2022,Delhi Capitals,47,,13,14,,7,2.0,91.0
+bowlers,3644,IPL,2023,Delhi Capitals,25,,6,6,,7,1.0,48.0
+bowlers,3644,IPL,2024,Delhi Capitals,22,,6,5,,3,2.0,46.0
+bowlers,3644,IPL,2025,Delhi Capitals,69,,10,23,,8,4.0,87.0
+bowlers,3644,IPL,2026,Delhi Capitals,47,,13,13,,6,2.0,97.0
+bowlers,3644,T20I,2023,India,12,,1,8,,3,2.0,8.0
+bowlers,3644,T20I,2024,India,10,,1,4,,1,1.0,13.0
+bowlers,3644,T20I,2025,India,27,,2,9,,4,1.0,33.0
+bowlers,3644,T20I,2026,India,14,,3,5,,3,3.0,26.0
+bowlers,3653,IPL,2022,Lucknow Super Giants,60,,17,18,,10,6.0,109.0
+bowlers,3653,IPL,2023,Lucknow Super Giants,47,,13,11,,5,3.0,87.0
+bowlers,3653,IPL,2024,Rajasthan Royals,61,,19,20,,10,5.0,115.0
+bowlers,3653,IPL,2025,Lucknow Super Giants,95,,24,28,,11,8.0,163.0
+bowlers,3653,IPL,2026,Lucknow Super Giants,51,,18,9,,5,0.0,122.0
+bowlers,3653,T20I,2022,India,27,,6,13,,5,1.0,40.0
+bowlers,3653,T20I,2023,India,17,,3,6,,2,1.0,24.0
+bowlers,3653,T20I,2024,India,5,,0,2,,2,0.0,3.0
+bowlers,3664,T20I,2022,Sri Lanka,3,,0,3,,1,1.0,0.0
+bowlers,3664,T20I,2024,Sri Lanka,21,,5,6,,6,1.0,38.0
+bowlers,3664,T20I,2025,Sri Lanka,15,,3,5,,3,1.0,26.0
+bowlers,3664,T20I,2026,Sri Lanka,18,,7,3,,2,0.0,44.0
+bowlers,3697,IPL,2025,Punjab Kings,11,,3,3,,3,2.0,26.0
+bowlers,3697,IPL,2026,Delhi Capitals,6,,3,0,,1,0.0,15.0
+bowlers,3697,T20I,2023,New Zealand,3,,1,0,,1,0.0,6.0
+bowlers,3697,T20I,2025,New Zealand,35,,9,9,,6,0.0,63.0
+bowlers,3697,T20I,2026,New Zealand,37,,12,11,,5,3.0,87.0
+bowlers,3720,T20I,2022,Ireland,23,,3,9,,3,2.0,32.0
+bowlers,3720,T20I,2023,Ireland,14,,2,4,,2,2.0,19.0
+bowlers,3720,T20I,2024,Ireland,28,,7,11,,4,2.0,47.0
+bowlers,3720,T20I,2025,Ireland,11,,2,2,,3,0.0,17.0
+bowlers,4101,IPL,2022,Chennai Super Kings,6,,2,2,,1,0.0,12.0
+bowlers,4101,IPL,2024,Chennai Super Kings,11,,3,1,,2,0.0,22.0
+bowlers,4101,IPL,2025,Mumbai Indians,48,,8,13,,10,3.0,74.0
+bowlers,4101,IPL,2026,Mumbai Indians,15,,5,6,,2,1.0,24.0
+bowlers,4101,T20I,2022,New Zealand,2,,0,1,,2,0.0,1.0
+bowlers,4101,T20I,2023,New Zealand,9,,2,3,,3,1.0,12.0
+bowlers,4101,T20I,2024,New Zealand,27,,6,7,,5,1.0,46.0
+bowlers,4101,T20I,2025,New Zealand,22,,4,5,,3,0.0,39.0
+bowlers,4101,T20I,2026,New Zealand,27,,6,4,,4,2.0,53.0
+bowlers,4219,IPL,2022,Lucknow Super Giants,14,,2,2,,4,0.0,23.0
+bowlers,4219,IPL,2023,Lucknow Super Giants,19,,2,5,,4,0.0,20.0
+bowlers,4219,IPL,2024,Lucknow Super Giants,39,,6,12,,5,1.0,60.0
+bowlers,4219,IPL,2025,Royal Challengers Bengaluru,49,,7,11,,8,4.0,73.0
+bowlers,4219,IPL,2026,Royal Challengers Bengaluru,47,,11,11,,7,1.0,90.0
+bowlers,4265,IPL,2022,Sunrisers Hyderabad,69,,16,17,,9,6.0,119.0
+bowlers,4265,IPL,2023,Sunrisers Hyderabad,64,,17,12,,8,2.0,121.0
+bowlers,4265,IPL,2024,Sunrisers Hyderabad,97,,22,29,,8,7.0,165.0
+bowlers,4265,IPL,2025,Delhi Capitals,20,,7,3,,2,1.0,44.0
+bowlers,4265,IPL,2026,Delhi Capitals,67,,17,11,,7,1.0,128.0
+bowlers,4373,IPL,2022,Delhi Capitals,53,,10,10,,6,5.0,89.0
+bowlers,4373,IPL,2023,Delhi Capitals,15,,5,5,,2,1.0,27.0
+bowlers,4373,IPL,2024,Chennai Super Kings,49,,18,12,,5,1.0,109.0
+bowlers,4373,IPL,2025,Delhi Capitals,15,,3,4,,2,1.0,24.0
+bowlers,4373,T20I,2022,Bangladesh,47,,12,14,,9,2.0,95.0
+bowlers,4373,T20I,2023,Bangladesh,24,,6,9,,4,3.0,41.0
+bowlers,4373,T20I,2024,Bangladesh,76,,19,17,,6,3.0,148.0
+bowlers,4373,T20I,2025,Bangladesh,57,,5,21,,12,2.0,64.0
+bowlers,4373,T20I,2026,Bangladesh,3,,1,0,,1,0.0,8.0
+bowlers,4391,IPL,2022,Punjab Kings,6,,1,0,,2,0.0,9.0
+bowlers,4391,IPL,2023,Punjab Kings,16,,5,3,,5,2.0,29.0
+bowlers,4391,IPL,2024,Punjab Kings,6,,1,1,,1,0.0,11.0
+bowlers,4391,IPL,2025,Royal Challengers Bengaluru,7,,3,0,,2,0.0,20.0
+bowlers,4391,T20I,2022,England,2,,1,1,,1,0.0,4.0
+bowlers,4391,T20I,2023,England,9,,3,1,,2,0.0,27.0
+bowlers,4391,T20I,2024,England,6,,4,1,,1,0.0,26.0
+bowlers,4391,T20I,2025,England,9,,3,2,,1,0.0,16.0
+bowlers,4409,IPL,2023,Punjab Kings,91,,22,27,,12,6.0,162.0
+bowlers,4409,IPL,2024,Punjab Kings,72,,21,16,,10,7.0,139.0
+bowlers,4409,IPL,2025,Chennai Super Kings,23,,3,4,,2,1.0,29.0
+bowlers,4409,T20I,2022,England,43,,6,11,,6,0.0,59.0
+bowlers,4409,T20I,2023,England,27,,5,9,,5,2.0,50.0
+bowlers,4409,T20I,2024,England,25,,11,5,,4,1.0,74.0
+bowlers,4409,T20I,2025,England,15,,4,3,,2,1.0,30.0
+bowlers,4409,T20I,2026,England,16,,3,3,,3,0.0,24.0
+bowlers,4487,IPL,2023,Royal Challengers Bengaluru,47,,14,11,,6,4.0,98.0
+bowlers,4487,IPL,2024,Royal Challengers Bengaluru,33,,11,4,,3,0.0,76.0
+bowlers,4487,IPL,2025,Punjab Kings,11,,1,4,,3,1.0,13.0
+bowlers,4487,IPL,2026,Punjab Kings,36,,15,12,,8,3.0,91.0
+bowlers,4489,IPL,2022,Rajasthan Royals,54,,16,15,,9,3.0,107.0
+bowlers,4489,IPL,2025,Gujarat Titans,80,,18,27,,11,9.0,133.0
+bowlers,4489,IPL,2026,Gujarat Titans,61,,19,16,,8,5.0,130.0
+bowlers,4489,T20I,2023,India,24,,9,7,,3,1.0,50.0
+bowlers,4489,T20I,2026,India,14,,5,5,,3,0.0,33.0
+bowlers,4641,IPL,2025,Royal Challengers Bengaluru,21,,1,8,,2,3.0,18.0
+bowlers,4641,IPL,2026,Delhi Capitals,71,,10,30,,6,3.0,86.0
+bowlers,4641,T20I,2022,South Africa,38,,10,17,,6,5.0,68.0
+bowlers,4641,T20I,2023,South Africa,17,,6,3,,3,0.0,38.0
+bowlers,4641,T20I,2024,South Africa,17,,4,5,,2,2.0,27.0
+bowlers,4641,T20I,2025,South Africa,15,,3,5,,3,0.0,22.0
+bowlers,4692,IPL,2022,Gujarat Titans,47,,15,18,,10,4.0,90.0
+bowlers,4692,IPL,2023,Kolkata Knight Riders,10,,7,3,,2,0.0,34.0
+bowlers,4692,IPL,2024,Royal Challengers Bengaluru,27,,10,7,,5,3.0,59.0
+bowlers,4692,IPL,2025,Punjab Kings,14,,3,5,,2,1.0,23.0
+bowlers,4692,IPL,2026,Punjab Kings,37,,13,11,,3,1.0,85.0
+bowlers,4692,T20I,2022,New Zealand,10,,5,3,,1,1.0,25.0
+bowlers,4692,T20I,2023,New Zealand,15,,4,7,,2,0.0,24.0
+bowlers,4692,T20I,2024,New Zealand,5,,0,4,,1,0.0,1.0
+bowlers,4692,T20I,2026,New Zealand,25,,6,9,,3,1.0,44.0
+bowlers,4722,IPL,2022,Gujarat Titans,89,,5,30,,12,9.0,87.0
+bowlers,4722,IPL,2023,Gujarat Titans,43,,8,12,,9,4.0,64.0
+bowlers,4722,IPL,2024,Gujarat Titans,40,,11,9,,6,4.0,84.0
+bowlers,4722,IPL,2025,Gujarat Titans,64,,17,19,,10,3.0,118.0
+bowlers,4722,IPL,2026,Gujarat Titans,87,,25,21,,11,5.0,179.0
+bowlers,4722,T20I,2022,Afghanistan,28,,3,11,,5,1.0,26.0
+bowlers,4722,T20I,2023,Afghanistan,8,,1,3,,1,0.0,8.0
+bowlers,4722,T20I,2024,Afghanistan,4,,0,2,,2,0.0,2.0
+bowlers,4722,T20I,2025,Afghanistan,10,,0,3,,3,0.0,8.0
+bowlers,4722,T20I,2026,Afghanistan,10,,3,4,,1,1.0,17.0
+bowlers,4755,IPL,2022,Chennai Super Kings,2,,2,0,,1,0.0,10.0
+bowlers,4755,IPL,2026,Chennai Super Kings,13,,7,1,,3,0.0,37.0
+bowlers,4755,T20I,2024,India,6,,3,1,,1,0.0,20.0
+bowlers,4755,T20I,2025,India,16,,0,4,,4,1.0,15.0
+bowlers,4755,T20I,2026,India,17,,5,4,,4,2.0,38.0
+bowlers,4807,IPL,2023,Gujarat Titans,10,,2,1,,4,1.0,19.0
+bowlers,4807,T20I,2022,Ireland,52,,16,14,,6,8.0,94.0
+bowlers,4807,T20I,2023,Ireland,7,,1,2,,2,0.0,11.0
+bowlers,4807,T20I,2025,Ireland,12,,1,3,,3,1.0,15.0
+bowlers,4815,T20I,2023,Ireland,21,,2,6,,3,1.0,24.0
+bowlers,4815,T20I,2024,Ireland,23,,7,8,,5,3.0,48.0
+bowlers,4815,T20I,2025,Ireland,13,,3,4,,1,1.0,20.0
+bowlers,4816,IPL,2022,Delhi Capitals,53,,15,22,,6,7.0,90.0
+bowlers,4816,IPL,2023,Delhi Capitals,38,,11,11,,5,3.0,82.0
+bowlers,4816,IPL,2024,Delhi Capitals,43,,10,19,,7,4.0,73.0
+bowlers,4816,IPL,2025,Chennai Super Kings,42,,10,17,,9,3.0,68.0
+bowlers,4816,IPL,2026,Chennai Super Kings,17,,2,8,,2,1.0,23.0
+bowlers,4816,T20I,2024,India,3,,0,0,,1,0.0,3.0
+bowlers,4823,IPL,2022,Sunrisers Hyderabad,45,,7,9,,5,1.0,70.0
+bowlers,4823,IPL,2023,Sunrisers Hyderabad,9,,1,3,,2,0.0,11.0
+bowlers,4823,IPL,2024,Sunrisers Hyderabad,6,,1,0,,1,0.0,10.0
+bowlers,4823,IPL,2025,Gujarat Titans,9,,4,2,,3,0.0,23.0
+bowlers,4823,IPL,2026,Gujarat Titans,11,,2,1,,2,0.0,22.0
+bowlers,4823,T20I,2022,India,1,,0,1,,1,0.0,0.0
+bowlers,4823,T20I,2024,India,5,,0,2,,2,1.0,4.0
+bowlers,4823,T20I,2025,India,10,,2,4,,2,0.0,16.0
+bowlers,4837,IPL,2022,Rajasthan Royals,19,,3,4,,3,1.0,33.0
+bowlers,4837,IPL,2023,Rajasthan Royals,1,,0,0,,1,0.0,1.0
+bowlers,4837,T20I,2022,West Indies,46,,15,13,,7,5.0,97.0
+bowlers,4837,T20I,2023,West Indies,5,,1,1,,2,0.0,11.0
+bowlers,4837,T20I,2024,West Indies,29,,6,10,,6,2.0,51.0
+bowlers,4840,IPL,2022,Punjab Kings,19,,7,7,,3,1.0,43.0
+bowlers,4840,T20I,2022,West Indies,32,,4,12,,7,4.0,40.0
+bowlers,4840,T20I,2023,West Indies,18,,9,4,,3,2.0,51.0
+bowlers,4842,T20I,2024,West Indies,7,,1,2,,1,1.0,9.0
+bowlers,4842,T20I,2025,West Indies,1,,0,0,,1,0.0,1.0
+bowlers,4842,T20I,2026,West Indies,44,,19,9,,6,4.0,117.0
+bowlers,4856,T20I,2022,New Zealand,3,,0,1,,1,0.0,3.0
+bowlers,4856,T20I,2024,New Zealand,22,,4,7,,3,2.0,33.0
+bowlers,4856,T20I,2025,New Zealand,17,,4,6,,2,0.0,26.0
+bowlers,4856,T20I,2026,New Zealand,18,,2,10,,2,2.0,19.0
+bowlers,4874,T20I,2023,Zimbabwe,0,,0,0,,1,0.0,1.0
+bowlers,4874,T20I,2024,Zimbabwe,39,,12,8,,8,2.0,71.0
+bowlers,4874,T20I,2025,Zimbabwe,37,,7,9,,5,2.0,59.0
+bowlers,4874,T20I,2026,Zimbabwe,17,,2,4,,3,1.0,25.0
+bowlers,4900,IPL,2022,Royal Challengers Bengaluru,56,,6,24,,9,6.0,63.0
+bowlers,4900,IPL,2023,Royal Challengers Bengaluru,34,,5,11,,4,3.0,48.0
+bowlers,4900,IPL,2025,Rajasthan Royals,22,,6,4,,6,2.0,46.0
+bowlers,4900,T20I,2022,Sri Lanka,14,,0,3,,5,1.0,13.0
+bowlers,4900,T20I,2023,Sri Lanka,16,,2,4,,2,1.0,24.0
+bowlers,4900,T20I,2024,Sri Lanka,45,,8,15,,9,2.0,65.0
+bowlers,4900,T20I,2025,Sri Lanka,23,,0,10,,5,4.0,16.0
+bowlers,4900,T20I,2026,Sri Lanka,25,,6,5,,3,1.0,44.0
+bowlers,4926,T20I,2022,Pakistan,15,,0,6,,4,0.0,12.0
+bowlers,4926,T20I,2023,Pakistan,15,,3,5,,5,1.0,24.0
+bowlers,4926,T20I,2024,Pakistan,22,,4,4,,3,0.0,40.0
+bowlers,4926,T20I,2025,Pakistan,11,,1,5,,2,1.0,12.0
+bowlers,4926,T20I,2026,Pakistan,3,,1,1,,1,1.0,7.0
+bowlers,5034,IPL,2022,Mumbai Indians,50,,8,18,,8,2.0,67.0
+bowlers,5034,IPL,2023,Rajasthan Royals,3,,1,1,,1,0.0,6.0
+bowlers,5041,IPL,2023,Delhi Capitals,51,,9,18,,7,6.0,76.0
+bowlers,5041,IPL,2024,Delhi Capitals,36,,15,9,,4,1.0,87.0
+bowlers,5041,IPL,2025,Delhi Capitals,51,,16,14,,8,5.0,109.0
+bowlers,5041,IPL,2026,Delhi Capitals,56,,21,9,,7,2.0,131.0
+bowlers,5041,T20I,2023,India,34,,5,14,,5,2.0,44.0
+bowlers,5041,T20I,2024,India,11,,4,3,,2,1.0,29.0
+bowlers,5379,T20I,2022,Ireland,64,,21,17,,9,5.0,141.0
+bowlers,5379,T20I,2023,Ireland,31,,9,8,,6,2.0,64.0
+bowlers,5379,T20I,2024,Ireland,49,,10,19,,7,6.0,73.0
+bowlers,5379,T20I,2025,Ireland,13,,4,8,,2,2.0,23.0
+bowlers,5441,T20I,2022,Ireland,31,,6,8,,4,2.0,51.0
+bowlers,5441,T20I,2023,Ireland,13,,4,3,,2,1.0,32.0
+bowlers,5441,T20I,2024,Ireland,17,,3,7,,4,1.0,24.0
+bowlers,5441,T20I,2025,Ireland,20,,5,6,,2,1.0,39.0
+bowlers,5441,T20I,2026,Ireland,3,,1,0,,1,0.0,8.0
+bowlers,5577,IPL,2022,Gujarat Titans,5,,0,1,,2,0.0,4.0
+bowlers,5577,IPL,2024,Gujarat Titans,25,,5,4,,5,2.0,43.0
+bowlers,5577,IPL,2025,Gujarat Titans,60,,15,19,,7,5.0,107.0
+bowlers,5577,IPL,2026,Gujarat Titans,17,,2,4,,2,1.0,23.0
+bowlers,5738,IPL,2025,Punjab Kings,6,,3,3,,1,0.0,12.0
+bowlers,5738,IPL,2026,Punjab Kings,62,,24,13,,7,2.0,147.0
+bowlers,5738,T20I,2024,Australia,12,,2,4,,4,2.0,16.0
+bowlers,5738,T20I,2025,Australia,12,,2,5,,4,2.0,15.0
+bowlers,5738,T20I,2026,Australia,10,,3,3,,1,1.0,17.0
+bowlers,5750,T20I,2022,Hong Kong,41,,6,13,,5,5.0,59.0
+bowlers,5750,T20I,2025,Hong Kong,18,,2,4,,2,1.0,29.0
+bowlers,5809,IPL,2023,Lucknow Super Giants,16,,2,6,,4,0.0,20.0
+bowlers,5809,IPL,2024,Lucknow Super Giants,45,,8,17,,8,7.0,68.0
+bowlers,5809,T20I,2022,Afghanistan,15,,5,1,,2,1.0,35.0
+bowlers,5809,T20I,2023,Afghanistan,4,,1,0,,1,0.0,10.0
+bowlers,5809,T20I,2024,Afghanistan,25,,10,5,,5,3.0,60.0
+bowlers,5837,T20I,2022,Bangladesh,15,,3,4,,3,1.0,29.0
+bowlers,5837,T20I,2024,Bangladesh,17,,4,3,,3,0.0,30.0
+bowlers,5837,T20I,2025,Bangladesh,3,,2,0,,2,0.0,13.0
+bowlers,5837,T20I,2026,Bangladesh,17,,2,8,,4,1.0,19.0
+bowlers,5939,IPL,2023,Mumbai Indians,27,,10,4,,7,1.0,71.0
+bowlers,5939,IPL,2024,Royal Challengers Bengaluru,24,,7,6,,5,1.0,49.0
+bowlers,5939,T20I,2022,Australia,33,,7,12,,4,1.0,55.0
+bowlers,5939,T20I,2024,Australia,6,,1,1,,1,0.0,8.0
+bowlers,5939,T20I,2026,Australia,8,,3,2,,1,1.0,19.0
+bowlers,5940,IPL,2022,Mumbai Indians,36,,6,16,,5,4.0,47.0
+bowlers,5940,IPL,2023,Mumbai Indians,31,,10,11,,5,4.0,61.0
+bowlers,5944,IPL,2022,Royal Challengers Bengaluru,51,,15,18,,8,4.0,111.0
+bowlers,5944,IPL,2023,Royal Challengers Bengaluru,71,,16,28,,8,5.0,115.0
+bowlers,5944,IPL,2024,Royal Challengers Bengaluru,54,,17,19,,10,2.0,106.0
+bowlers,5944,IPL,2025,Gujarat Titans,72,,23,21,,13,5.0,146.0
+bowlers,5944,IPL,2026,Gujarat Titans,47,,19,18,,9,4.0,105.0
+bowlers,5944,T20I,2022,India,23,,2,12,,2,3.0,21.0
+bowlers,5944,T20I,2023,India,7,,1,1,,1,0.0,10.0
+bowlers,5979,T20I,2024,Pakistan,22,,2,6,,2,0.0,26.0
+bowlers,5979,T20I,2025,Pakistan,28,,6,8,,8,3.0,49.0
+bowlers,5979,T20I,2026,Pakistan,2,,1,1,,1,1.0,4.0
+bowlers,6161,IPL,2022,Punjab Kings,45,,7,10,,5,1.0,74.0
+bowlers,6161,IPL,2023,Punjab Kings,56,,11,12,,9,3.0,88.0
+bowlers,6161,IPL,2024,Punjab Kings,49,,10,19,,6,3.0,76.0
+bowlers,6161,IPL,2026,Chennai Super Kings,13,,3,3,,1,0.0,27.0
+bowlers,6256,IPL,2022,Kolkata Knight Riders,46,,10,9,,7,1.0,87.0
+bowlers,6256,IPL,2023,Kolkata Knight Riders,46,,10,10,,9,3.0,86.0
+bowlers,6256,IPL,2024,Kolkata Knight Riders,25,,7,6,,6,1.0,53.0
+bowlers,6256,IPL,2025,Kolkata Knight Riders,59,,18,17,,8,1.0,114.0
+bowlers,6256,IPL,2026,Kolkata Knight Riders,37,,8,13,,5,3.0,57.0
+bowlers,6256,T20I,2025,India,36,,2,20,,7,6.0,26.0
+bowlers,6256,T20I,2026,India,24,,7,7,,4,0.0,46.0
+bowlers,6281,IPL,2022,Sunrisers Hyderabad,12,,2,2,,2,0.0,18.0
+bowlers,6281,IPL,2023,Sunrisers Hyderabad,26,,11,7,,5,1.0,68.0
+bowlers,6281,IPL,2025,Sunrisers Hyderabad,6,,3,2,,1,0.0,17.0
+bowlers,6281,IPL,2026,Sunrisers Hyderabad,4,,1,1,,1,0.0,8.0
+bowlers,6281,T20I,2025,India,2,,0,2,,1,0.0,0.0
+bowlers,6281,T20I,2026,India,7,,2,1,,2,0.0,15.0
+bowlers,6287,IPL,2023,Lucknow Super Giants,40,,7,11,,4,0.0,59.0
+bowlers,6287,IPL,2024,Lucknow Super Giants,43,,16,10,,5,2.0,104.0
+bowlers,6287,IPL,2025,Punjab Kings,13,,6,3,,2,0.0,37.0
+bowlers,6287,IPL,2026,Punjab Kings,5,,3,2,,1,1.0,16.0
+bowlers,6287,T20I,2026,India,1,,0,1,,1,0.0,0.0
+bowlers,6354,IPL,2024,Gujarat Titans,31,,7,11,,4,1.0,47.0
+bowlers,6354,IPL,2025,Kolkata Knight Riders,6,,4,1,,2,0.0,20.0
+bowlers,6354,IPL,2026,Chennai Super Kings,18,,6,3,,3,0.0,41.0
+bowlers,6354,T20I,2024,Australia,8,,2,4,,2,2.0,14.0
+bowlers,6355,T20I,2023,Pakistan,24,,6,6,,3,0.0,44.0
+bowlers,6355,T20I,2024,Pakistan,75,,17,29,,13,6.0,118.0
+bowlers,6355,T20I,2025,Pakistan,28,,4,7,,6,1.0,42.0
+bowlers,6450,IPL,2025,Mumbai Indians,6,,1,2,,1,1.0,9.0
+bowlers,6450,T20I,2022,Afghanistan,19,,1,8,,3,1.0,18.0
+bowlers,6450,T20I,2024,Afghanistan,2,,0,2,,1,0.0,0.0
+bowlers,6450,T20I,2025,Afghanistan,11,,2,4,,4,2.0,19.0
+bowlers,6450,T20I,2026,Afghanistan,17,,4,8,,4,1.0,28.0
+bowlers,6464,IPL,2022,Punjab Kings,82,,9,30,,9,3.0,83.0
+bowlers,6464,IPL,2023,Punjab Kings,83,,20,25,,10,7.0,141.0
+bowlers,6464,IPL,2024,Punjab Kings,76,,19,32,,10,9.0,132.0
+bowlers,6464,IPL,2025,Punjab Kings,77,,20,27,,10,6.0,132.0
+bowlers,6464,IPL,2026,Punjab Kings,95,,31,22,,11,5.0,191.0
+bowlers,6464,T20I,2022,India,46,,8,13,,7,3.0,66.0
+bowlers,6464,T20I,2023,India,62,,19,21,,10,2.0,130.0
+bowlers,6464,T20I,2024,India,32,,7,13,,5,5.0,47.0
+bowlers,6464,T20I,2025,India,39,,12,13,,8,3.0,71.0
+bowlers,6464,T20I,2026,India,92,,16,31,,14,4.0,146.0
+bowlers,6512,IPL,2023,Royal Challengers Bengaluru,2,,0,1,,2,0.0,1.0
+bowlers,6512,T20I,2022,New Zealand,2,,0,1,,2,1.0,1.0
+bowlers,6512,T20I,2024,New Zealand,22,,4,8,,3,1.0,30.0
+bowlers,6512,T20I,2025,New Zealand,15,,4,3,,3,1.0,30.0
+bowlers,6512,T20I,2026,New Zealand,18,,9,4,,3,1.0,51.0
+bowlers,6518,IPL,2022,Mumbai Indians,28,,8,10,,9,1.0,55.0
+bowlers,6518,T20I,2022,Australia,27,,6,10,,3,2.0,40.0
+bowlers,6523,IPL,2026,Kolkata Knight Riders,21,,7,6,,2,3.0,42.0
+bowlers,6523,T20I,2022,Zimbabwe,4,,1,0,,1,0.0,16.0
+bowlers,6523,T20I,2023,Zimbabwe,4,,1,2,,1,0.0,8.0
+bowlers,6523,T20I,2024,Zimbabwe,56,,11,15,,9,4.0,94.0
+bowlers,6523,T20I,2025,Zimbabwe,9,,1,2,,2,0.0,14.0
+bowlers,6523,T20I,2026,Zimbabwe,26,,4,11,,5,1.0,28.0
+bowlers,6628,IPL,2024,Mumbai Indians,39,,6,17,,6,4.0,49.0
+bowlers,6628,IPL,2025,Gujarat Titans,20,,6,4,,2,0.0,48.0
+bowlers,6628,T20I,2023,South Africa,10,,2,2,,3,0.0,17.0
+bowlers,6628,T20I,2024,South Africa,24,,5,7,,4,0.0,47.0
+bowlers,6643,T20I,2022,Bangladesh,24,,4,8,,3,3.0,34.0
+bowlers,6643,T20I,2023,Bangladesh,5,,1,3,,3,1.0,5.0
+bowlers,6643,T20I,2025,Bangladesh,23,,4,11,,4,2.0,30.0
+bowlers,6669,IPL,2022,Lucknow Super Giants,19,,2,10,,4,1.0,19.0
+bowlers,6669,IPL,2023,Lucknow Super Giants,6,,1,1,,1,1.0,8.0
+bowlers,6669,IPL,2024,Lucknow Super Giants,67,,23,22,,8,0.0,143.0
+bowlers,6669,IPL,2026,Lucknow Super Giants,23,,5,9,,3,2.0,34.0
+bowlers,6676,IPL,2024,Gujarat Titans,12,,4,6,,4,0.0,21.0
+bowlers,6676,IPL,2025,Punjab Kings,32,,7,8,,3,2.0,52.0
+bowlers,6676,IPL,2026,Punjab Kings,18,,4,5,,3,1.0,29.0
+bowlers,6676,T20I,2022,Afghanistan,2,,0,2,,1,0.0,0.0
+bowlers,6676,T20I,2023,Afghanistan,5,,2,0,,1,0.0,13.0
+bowlers,6676,T20I,2024,Afghanistan,35,,12,6,,4,1.0,82.0
+bowlers,6676,T20I,2025,Afghanistan,11,,5,3,,4,0.0,29.0
+bowlers,6676,T20I,2026,Afghanistan,8,,1,3,,2,1.0,9.0
+bowlers,6683,IPL,2022,Mumbai Indians,11,,2,3,,2,0.0,16.0
+bowlers,6683,IPL,2023,Sunrisers Hyderabad,43,,7,10,,8,1.0,64.0
+bowlers,6683,IPL,2024,Sunrisers Hyderabad,14,,6,1,,4,1.0,40.0
+bowlers,6683,IPL,2026,Mumbai Indians,11,,4,2,,2,0.0,29.0
+bowlers,6726,IPL,2022,Sunrisers Hyderabad,7,,1,3,,2,1.0,8.0
+bowlers,6726,IPL,2024,Mumbai Indians,18,,7,7,,2,0.0,37.0
+bowlers,6726,IPL,2025,Royal Challengers Bengaluru,27,,10,7,,4,1.0,61.0
+bowlers,6726,IPL,2026,Royal Challengers Bengaluru,15,,3,4,,3,1.0,26.0
+bowlers,6726,T20I,2022,West Indies,47,,11,14,,7,5.0,91.0
+bowlers,6726,T20I,2023,West Indies,23,,4,8,,5,2.0,32.0
+bowlers,6726,T20I,2024,West Indies,69,,14,15,,12,6.0,121.0
+bowlers,6726,T20I,2025,West Indies,39,,10,11,,10,3.0,77.0
+bowlers,6726,T20I,2026,West Indies,23,,7,3,,4,0.0,48.0
+bowlers,6806,IPL,2022,Chennai Super Kings,2,,0,2,,1,0.0,0.0
+bowlers,6806,IPL,2023,Chennai Super Kings,55,,16,18,,9,6.0,110.0
+bowlers,6806,IPL,2024,Chennai Super Kings,51,,13,14,,6,4.0,102.0
+bowlers,6806,IPL,2025,Rajasthan Royals,47,,16,16,,6,6.0,108.0
+bowlers,6806,IPL,2026,Rajasthan Royals,73,,23,21,,6,1.0,147.0
+bowlers,6806,T20I,2024,India,3,,0,1,,1,1.0,3.0
+bowlers,7094,T20I,2022,Ireland,11,,2,2,,2,0.0,17.0
+bowlers,7094,T20I,2023,Ireland,7,,1,2,,2,0.0,10.0
+bowlers,7094,T20I,2024,Ireland,29,,6,3,,4,0.0,54.0
+bowlers,7094,T20I,2025,Ireland,3,,1,0,,1,0.0,7.0
+bowlers,7240,IPL,2022,Sunrisers Hyderabad,27,,5,6,,2,0.0,47.0
+bowlers,7240,IPL,2023,Sunrisers Hyderabad,9,,4,3,,2,1.0,20.0
+bowlers,7240,IPL,2025,Rajasthan Royals,20,,10,2,,4,0.0,59.0
+bowlers,7240,T20I,2022,Afghanistan,33,,6,7,,5,2.0,55.0
+bowlers,7240,T20I,2023,Afghanistan,13,,2,2,,3,1.0,18.0
+bowlers,7240,T20I,2024,Afghanistan,9,,2,4,,3,1.0,13.0
+bowlers,7240,T20I,2025,Afghanistan,11,,2,2,,3,0.0,20.0
+bowlers,7240,T20I,2026,Afghanistan,6,,2,2,,2,1.0,11.0
+bowlers,7250,IPL,2022,Chennai Super Kings,29,,8,6,,4,1.0,58.0
+bowlers,7250,IPL,2025,Chennai Super Kings,10,,2,4,,1,0.0,13.0
+bowlers,7250,IPL,2026,Chennai Super Kings,30,,9,11,,5,4.0,54.0
+bowlers,7270,IPL,2022,Delhi Capitals,21,,7,6,,3,4.0,41.0
+bowlers,7270,IPL,2023,Delhi Capitals,76,,14,22,,8,2.0,121.0
+bowlers,7270,IPL,2024,Delhi Capitals,53,,27,14,,5,5.0,153.0
+bowlers,7270,IPL,2025,Kolkata Knight Riders,14,,5,3,,1,0.0,32.0
+bowlers,7270,T20I,2022,South Africa,19,,4,5,,3,1.0,30.0
+bowlers,7270,T20I,2024,South Africa,6,,2,2,,1,0.0,11.0
+bowlers,7270,T20I,2025,South Africa,6,,2,2,,1,0.0,12.0
+bowlers,7270,T20I,2026,South Africa,6,,2,0,,1,0.0,15.0
+bowlers,7312,IPL,2024,Rajasthan Royals,12,,0,8,,2,1.0,5.0
+bowlers,7312,IPL,2026,Rajasthan Royals,63,,16,18,,8,2.0,114.0
+bowlers,7312,T20I,2023,South Africa,10,,2,3,,1,1.0,13.0
+bowlers,7312,T20I,2024,South Africa,1,,0,0,,1,0.0,2.0
+bowlers,7312,T20I,2025,South Africa,4,,0,1,,1,0.0,3.0
+bowlers,7322,IPL,2022,Gujarat Titans,35,,10,7,,5,1.0,75.0
+bowlers,7322,IPL,2023,Gujarat Titans,11,,5,3,,2,0.0,29.0
+bowlers,7322,IPL,2024,Royal Challengers Bengaluru,60,,12,17,,11,4.0,97.0
+bowlers,7322,IPL,2025,Royal Challengers Bengaluru,64,,17,12,,11,1.0,120.0
+bowlers,7325,IPL,2022,Punjab Kings,8,,3,3,,2,0.0,22.0
+bowlers,7325,IPL,2023,Punjab Kings,28,,4,7,,5,3.0,41.0
+bowlers,7325,IPL,2024,Punjab Kings,31,,8,7,,6,0.0,65.0
+bowlers,7325,IPL,2025,Punjab Kings,31,,5,6,,3,3.0,44.0
+bowlers,7325,IPL,2026,Punjab Kings,17,,2,5,,2,0.0,19.0
+bowlers,7327,IPL,2024,Delhi Capitals,20,,7,8,,4,0.0,38.0
+bowlers,7327,IPL,2025,Royal Challengers Bengaluru,19,,6,7,,2,1.0,36.0
+bowlers,7327,IPL,2026,Royal Challengers Bengaluru,48,,12,15,,6,6.0,83.0
+bowlers,7344,T20I,2022,Bangladesh,39,,7,9,,6,2.0,59.0
+bowlers,7344,T20I,2023,Bangladesh,2,,0,1,,1,0.0,1.0
+bowlers,7344,T20I,2024,Bangladesh,17,,5,6,,3,2.0,31.0
+bowlers,7344,T20I,2025,Bangladesh,32,,4,14,,8,4.0,34.0
+bowlers,7344,T20I,2026,Bangladesh,6,,1,4,,1,1.0,5.0
+bowlers,7364,T20I,2022,Pakistan,56,,7,18,,11,5.0,74.0
+bowlers,7364,T20I,2023,Pakistan,33,,7,10,,3,3.0,53.0
+bowlers,7364,T20I,2024,Pakistan,42,,8,16,,7,6.0,70.0
+bowlers,7364,T20I,2025,Pakistan,26,,4,10,,7,3.0,39.0
+bowlers,7472,IPL,2022,Royal Challengers Bengaluru,19,,2,8,,6,1.0,21.0
+bowlers,7472,IPL,2023,Royal Challengers Bengaluru,9,,3,1,,4,0.0,21.0
+bowlers,7472,IPL,2024,Sunrisers Hyderabad,27,,8,4,,6,0.0,56.0
+bowlers,7472,IPL,2025,Lucknow Super Giants,17,,5,6,,3,0.0,29.0
+bowlers,7472,IPL,2026,Lucknow Super Giants,5,,2,2,,2,1.0,11.0
+bowlers,7473,IPL,2022,Royal Challengers Bengaluru,38,,13,8,,5,2.0,97.0
+bowlers,7473,IPL,2024,Royal Challengers Bengaluru,10,,2,6,,1,1.0,15.0
+bowlers,7473,IPL,2025,Lucknow Super Giants,21,,8,7,,4,0.0,46.0
+bowlers,7503,IPL,2022,Lucknow Super Giants,49,,11,14,,9,2.0,79.0
+bowlers,7503,IPL,2023,Lucknow Super Giants,35,,7,14,,7,4.0,54.0
+bowlers,7503,IPL,2024,Lucknow Super Giants,37,,9,10,,7,2.0,66.0
+bowlers,7503,IPL,2025,Lucknow Super Giants,22,,3,8,,5,1.0,29.0
+bowlers,7503,IPL,2026,Rajasthan Royals,38,,11,11,,5,4.0,77.0
+bowlers,7503,T20I,2022,India,16,,1,7,,3,1.0,18.0
+bowlers,7503,T20I,2023,India,27,,7,10,,3,2.0,50.0
+bowlers,7503,T20I,2024,India,28,,4,13,,6,1.0,31.0
+bowlers,7503,T20I,2025,India,3,,1,1,,1,1.0,6.0
+bowlers,7503,T20I,2026,India,25,,9,3,,3,0.0,63.0
+bowlers,7699,T20I,2024,Pakistan,63,,9,23,,9,8.0,85.0
+bowlers,7699,T20I,2025,Pakistan,30,,5,9,,3,4.0,45.0
+bowlers,7741,T20I,2022,Ireland,36,,6,9,,6,5.0,55.0
+bowlers,7741,T20I,2023,Ireland,6,,1,3,,2,0.0,9.0
+bowlers,7741,T20I,2024,Ireland,8,,1,6,,2,1.0,7.0
+bowlers,7741,T20I,2025,Ireland,3,,0,1,,1,0.0,2.0
+bowlers,7741,T20I,2026,Ireland,1,,0,1,,1,0.0,0.0
+bowlers,7808,IPL,2022,Sunrisers Hyderabad,11,,2,4,,2,0.0,16.0
+bowlers,7808,IPL,2023,Sunrisers Hyderabad,21,,6,3,,3,0.0,41.0
+bowlers,7808,IPL,2024,Sunrisers Hyderabad,20,,7,3,,2,0.0,48.0
+bowlers,7808,IPL,2025,Punjab Kings,67,,18,24,,8,4.0,130.0
+bowlers,7808,IPL,2026,Punjab Kings,55,,15,14,,9,3.0,102.0
+bowlers,7808,T20I,2023,South Africa,21,,5,6,,2,3.0,38.0
+bowlers,7808,T20I,2024,South Africa,29,,4,11,,4,1.0,41.0
+bowlers,7808,T20I,2025,South Africa,36,,9,8,,3,0.0,66.0
+bowlers,7808,T20I,2026,South Africa,6,,4,0,,1,0.0,22.0
+bowlers,7905,T20I,2024,Bangladesh,22,,11,6,,3,3.0,64.0
+bowlers,7905,T20I,2025,Bangladesh,57,,17,15,,8,4.0,120.0
+bowlers,7905,T20I,2026,Bangladesh,3,,0,0,,1,0.0,6.0
+bowlers,7920,IPL,2022,Punjab Kings,4,,1,2,,1,2.0,7.0
+bowlers,7920,IPL,2023,Punjab Kings,89,,15,26,,9,8.0,126.0
+bowlers,7920,T20I,2022,Australia,20,,4,10,,2,4.0,22.0
+bowlers,7920,T20I,2023,Australia,48,,14,15,,5,4.0,103.0
+bowlers,7920,T20I,2024,Australia,2,,0,0,,1,0.0,3.0
+bowlers,7920,T20I,2025,Australia,51,,8,20,,8,3.0,60.0
+bowlers,7920,T20I,2026,Australia,9,,1,5,,1,0.0,8.0
+bowlers,7967,IPL,2023,Gujarat Titans,30,,3,10,,8,2.0,32.0
+bowlers,7967,IPL,2024,Gujarat Titans,30,,8,10,,3,1.0,57.0
+bowlers,7967,IPL,2025,Chennai Super Kings,55,,15,19,,8,4.0,96.0
+bowlers,7967,IPL,2026,Chennai Super Kings,47,,10,11,,7,2.0,87.0
+bowlers,7967,T20I,2024,Afghanistan,9,,0,3,,1,1.0,7.0
+bowlers,7967,T20I,2025,Afghanistan,13,,1,5,,3,1.0,14.0
+bowlers,7967,T20I,2026,Afghanistan,2,,1,0,,1,0.0,6.0
+bowlers,8009,T20I,2022,United Arab Emirates,18,,5,8,,2,1.0,32.0
+bowlers,8009,T20I,2023,United Arab Emirates,8,,0,4,,1,2.0,7.0
+bowlers,8009,T20I,2025,United Arab Emirates,34,,9,7,,5,1.0,65.0
+bowlers,8009,T20I,2026,United Arab Emirates,8,,1,1,,2,0.0,16.0
+bowlers,8049,T20I,2022,Pakistan,24,,5,8,,4,2.0,36.0
+bowlers,8049,T20I,2023,Pakistan,14,,1,3,,2,0.0,18.0
+bowlers,8049,T20I,2024,Pakistan,31,,11,7,,4,2.0,69.0
+bowlers,8049,T20I,2025,Pakistan,2,,0,0,,1,0.0,3.0
+bowlers,8049,T20I,2026,Pakistan,2,,0,1,,1,0.0,1.0
+bowlers,8177,IPL,2023,Mumbai Indians,51,,12,12,,5,3.0,98.0
+bowlers,8177,IPL,2024,Mumbai Indians,22,,9,5,,4,0.0,55.0
+bowlers,8177,IPL,2025,Rajasthan Royals,33,,8,7,,3,0.0,65.0
+bowlers,8221,IPL,2023,Sunrisers Hyderabad,9,,2,2,,2,0.0,19.0
+bowlers,8221,IPL,2024,Sunrisers Hyderabad,17,,5,2,,3,0.0,40.0
+bowlers,8221,IPL,2025,Sunrisers Hyderabad,7,,3,2,,2,1.0,21.0
+bowlers,8221,IPL,2026,Sunrisers Hyderabad,28,,5,10,,6,3.0,41.0
+bowlers,8221,T20I,2024,India,1,,0,0,,1,0.0,1.0
+bowlers,8221,T20I,2026,India,48,,14,10,,8,3.0,105.0
+bowlers,8295,T20I,2023,West Indies,9,,6,2,,1,0.0,36.0
+bowlers,8295,T20I,2024,West Indies,7,,3,1,,2,1.0,17.0
+bowlers,8295,T20I,2025,West Indies,16,,4,7,,2,1.0,27.0
+bowlers,8295,T20I,2026,West Indies,20,,4,5,,5,1.0,37.0
+bowlers,8380,T20I,2024,Bangladesh,41,,13,12,,8,4.0,91.0
+bowlers,8380,T20I,2025,Bangladesh,58,,8,17,,10,5.0,82.0
+bowlers,8380,T20I,2026,Bangladesh,3,,0,3,,2,1.0,0.0
+bowlers,8530,IPL,2022,Sunrisers Hyderabad,19,,3,10,,2,1.0,26.0
+bowlers,8530,IPL,2023,Sunrisers Hyderabad,13,,4,4,,3,0.0,24.0
+bowlers,8530,IPL,2026,Kolkata Knight Riders,85,,20,34,,11,9.0,140.0
+bowlers,8634,IPL,2025,Mumbai Indians,44,,14,11,,6,2.0,101.0
+bowlers,8634,IPL,2026,Mumbai Indians,17,,10,3,,2,1.0,50.0
+bowlers,8661,IPL,2022,Chennai Super Kings,5,,0,4,,1,0.0,1.0
+bowlers,8661,IPL,2023,Chennai Super Kings,47,,8,15,,7,5.0,70.0
+bowlers,8661,IPL,2024,Chennai Super Kings,33,,5,15,,4,5.0,40.0
+bowlers,8661,IPL,2025,Chennai Super Kings,89,,20,27,,10,8.0,159.0
+bowlers,8661,T20I,2024,Sri Lanka,51,,10,18,,8,8.0,83.0
+bowlers,8661,T20I,2025,Sri Lanka,9,,2,5,,1,1.0,13.0
+bowlers,8661,T20I,2026,Sri Lanka,16,,4,5,,1,2.0,30.0
+bowlers,8746,IPL,2022,Punjab Kings,23,,6,3,,3,0.0,40.0
+bowlers,8746,IPL,2023,Kolkata Knight Riders,4,,0,3,,3,0.0,2.0
+bowlers,8746,IPL,2024,Kolkata Knight Riders,11,,3,3,,4,1.0,19.0
+bowlers,8746,IPL,2025,Kolkata Knight Riders,54,,12,24,,9,6.0,84.0
+bowlers,8746,IPL,2026,Kolkata Knight Riders,48,,14,13,,6,4.0,94.0
+bowlers,19312,IPL,2024,Mumbai Indians,34,,13,7,,3,2.0,74.0
+bowlers,19312,IPL,2025,Royal Challengers Bengaluru,6,,0,1,,1,0.0,7.0
+bowlers,19312,T20I,2022,Sri Lanka,3,,0,0,,1,0.0,5.0
+bowlers,19312,T20I,2024,Sri Lanka,12,,2,5,,3,0.0,15.0
+bowlers,19312,T20I,2025,Sri Lanka,17,,1,8,,7,1.0,18.0
+bowlers,19312,T20I,2026,Sri Lanka,17,,3,6,,2,2.0,22.0
+bowlers,19316,IPL,2022,Chennai Super Kings,29,,2,7,,4,2.0,31.0
+bowlers,19316,IPL,2023,Chennai Super Kings,20,,1,5,,5,0.0,23.0
+bowlers,19316,IPL,2024,Chennai Super Kings,13,,2,5,,2,0.0,16.0
+bowlers,19316,IPL,2025,Rajasthan Royals,72,,22,17,,10,6.0,146.0
+bowlers,19316,T20I,2022,Sri Lanka,10,,0,6,,3,1.0,5.0
+bowlers,19316,T20I,2023,Sri Lanka,29,,5,8,,3,0.0,43.0
+bowlers,19316,T20I,2024,Sri Lanka,56,,12,19,,8,4.0,86.0
+bowlers,19316,T20I,2025,Sri Lanka,30,,2,13,,7,2.0,30.0
+bowlers,19316,T20I,2026,Sri Lanka,24,,5,9,,4,1.0,45.0
+bowlers,20005,IPL,2023,Mumbai Indians,18,,8,4,,2,1.0,43.0
+bowlers,20005,IPL,2024,Lucknow Super Giants,1,,0,1,,1,0.0,1.0
+bowlers,20005,IPL,2025,Gujarat Titans,24,,7,6,,5,1.0,48.0
+bowlers,20005,IPL,2026,Gujarat Titans,12,,6,5,,2,1.0,32.0
+bowlers,21784,T20I,2023,Zimbabwe,1,,0,0,,1,0.0,1.0
+bowlers,21784,T20I,2025,Zimbabwe,38,,8,13,,5,4.0,64.0
+bowlers,21784,T20I,2026,Zimbabwe,47,,16,10,,6,4.0,118.0
+bowlers,22134,T20I,2022,Zimbabwe,14,,2,4,,3,1.0,25.0
+bowlers,22134,T20I,2023,Zimbabwe,1,,0,0,,1,0.0,2.0
+bowlers,22134,T20I,2024,Zimbabwe,35,,13,8,,5,2.0,78.0
+bowlers,22920,IPL,2026,Royal Challengers Bengaluru,2,,0,1,,1,0.0,1.0
+bowlers,22920,T20I,2022,New Zealand,6,,2,2,,1,0.0,13.0
+bowlers,22920,T20I,2024,New Zealand,15,,1,4,,3,2.0,18.0
+bowlers,22920,T20I,2025,New Zealand,53,,14,16,,7,4.0,96.0
+bowlers,22920,T20I,2026,New Zealand,38,,12,11,,7,1.0,87.0
+bowlers,25048,IPL,2022,Sunrisers Hyderabad,58,,17,27,,6,5.0,94.0
+bowlers,25048,IPL,2023,Sunrisers Hyderabad,18,,8,3,,3,0.0,45.0
+bowlers,25048,T20I,2022,India,13,,3,3,,2,0.0,26.0
+bowlers,25048,T20I,2023,India,10,,0,5,,2,2.0,6.0
+bowlers,25132,IPL,2026,Sunrisers Hyderabad,50,,17,18,,5,5.0,109.0
+bowlers,25138,IPL,2025,Sunrisers Hyderabad,15,,2,3,,2,2.0,23.0
+bowlers,25138,IPL,2026,Sunrisers Hyderabad,42,,9,10,,4,3.0,72.0
+bowlers,26663,IPL,2024,Mumbai Indians,7,,4,2,,1,0.0,22.0
+bowlers,26663,IPL,2025,Rajasthan Royals,6,,3,1,,1,0.0,16.0
+bowlers,26663,T20I,2024,South Africa,5,,2,0,,1,0.0,17.0
+bowlers,26663,T20I,2025,South Africa,24,,6,7,,1,0.0,41.0
+bowlers,26663,T20I,2026,South Africa,22,,5,9,,3,1.0,39.0
+bowlers,27960,IPL,2024,Lucknow Super Giants,14,,3,6,,1,1.0,19.0
+bowlers,27960,IPL,2025,Lucknow Super Giants,9,,2,4,,2,1.0,15.0
+bowlers,27960,IPL,2026,Lucknow Super Giants,23,,9,6,,4,0.0,60.0
+bowlers,27960,T20I,2026,India,27,,9,11,,5,2.0,59.0
+bowlers,27964,IPL,2024,Mumbai Indians,2,,1,0,,1,0.0,7.0
+bowlers,27964,IPL,2025,Chennai Super Kings,14,,3,5,,3,1.0,20.0
+bowlers,27964,IPL,2026,Chennai Super Kings,77,,25,27,,9,5.0,151.0
+bowlers,29066,T20I,2024,New Zealand,27,,1,10,,4,3.0,24.0
+bowlers,29066,T20I,2025,New Zealand,7,,3,2,,1,1.0,17.0
+bowlers,29066,T20I,2026,New Zealand,21,,8,3,,4,0.0,50.0
+bowlers,29888,IPL,2023,Kolkata Knight Riders,10,,4,1,,3,0.0,26.0
+bowlers,29888,IPL,2024,Kolkata Knight Riders,38,,12,11,,6,3.0,80.0
+bowlers,29888,IPL,2025,Kolkata Knight Riders,73,,21,25,,8,6.0,128.0
+bowlers,29888,T20I,2025,India,23,,9,8,,4,2.0,49.0
+bowlers,29888,T20I,2026,India,25,,7,4,,4,2.0,51.0
+bowlers,35318,IPL,2026,Sunrisers Hyderabad,54,,15,14,,8,4.0,108.0
+bowlers,36982,IPL,2023,Kolkata Knight Riders,35,,6,11,,6,2.0,50.0
+bowlers,36982,IPL,2024,Kolkata Knight Riders,5,,3,1,,1,0.0,18.0
+bowlers,36982,IPL,2025,Royal Challengers Bengaluru,44,,11,8,,6,0.0,85.0
+bowlers,36982,IPL,2026,Royal Challengers Bengaluru,41,,6,9,,6,1.0,61.0
+bowlers,38855,T20I,2022,Bangladesh,35,,12,9,,4,2.0,74.0
+bowlers,38855,T20I,2024,Bangladesh,15,,4,5,,3,1.0,28.0
+bowlers,38855,T20I,2025,Bangladesh,20,,4,6,,4,1.0,36.0
+bowlers,38855,T20I,2026,Bangladesh,6,,0,2,,3,1.0,4.0
+bowlers,39657,IPL,2025,Sunrisers Hyderabad,25,,5,8,,4,1.0,37.0
+bowlers,39657,IPL,2026,Sunrisers Hyderabad,78,,19,23,,9,5.0,137.0
+bowlers,39657,T20I,2025,Sri Lanka,9,,4,2,,2,1.0,23.0
+bowlers,39657,T20I,2026,Sri Lanka,39,,3,11,,4,2.0,55.0
+bowlers,47050,T20I,2024,West Indies,30,,11,12,,6,1.0,68.0
+bowlers,47050,T20I,2025,West Indies,13,,3,3,,1,1.0,33.0
+bowlers,47050,T20I,2026,West Indies,52,,14,13,,7,3.0,100.0
+bowlers,58134,IPL,2025,Lucknow Super Giants,74,,10,29,,11,7.0,87.0
+bowlers,58134,IPL,2026,Lucknow Super Giants,67,,22,15,,7,2.0,154.0
+bowlers,58246,IPL,2025,Lucknow Super Giants,19,,5,4,,4,1.0,32.0
+bowlers,58246,IPL,2026,Lucknow Super Giants,72,,17,20,,9,3.0,123.0
+bowlers,58246,T20I,2026,India,78,,13,19,,10,3.0,120.0
+bowlers,67036,IPL,2026,Rajasthan Royals,98,,28,30,,11,6.0,181.0
